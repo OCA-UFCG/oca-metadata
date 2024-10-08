@@ -2494,92 +2494,113 @@
       },
       "id": 12,
       "properties": {
-          "NM_UF": "Acre",
-          "SIGLA_UF": "AC",
-          "speigeneral": {
-              "Area_km2_1": 5759.1384695374145,
-              "Area_km2_2": 41618.10031227681,
-              "Area_km2_3": 101194.96456367767,
-              "Area_km2_4": 13601.674851822805,
-              "Percent_1": 3.551212151768579,
-              "Percent_2": 25.662641095405412,
-              "Percent_3": 62.39905321901173,
-              "Percent_4": 8.387093533814266
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 162173.8358497416,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 162173.8358497416,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 162173.8358497416,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 159429.93874323223,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 51.66894808234337,
-              "Area_km2_4": 18317.81441064642,
-              "Area_km2_5": 22612.2174313531,
-              "Area_km2_6": 122151.16060761284,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.03167292453504008,
-              "Percent_4": 11.228770373855085,
-              "Percent_5": 13.86122773646919,
-              "Percent_6": 74.87832896514068
-          },
-          "odsgeneral": {
-              "Area_km2_1": 9546.36572939246,
-              "Area_km2_2": 152242.08512670637,
-              "Area_km2_3": 1011.5290818123689,
-              "Percent_1": 5.863861735752832,
-              "Percent_2": 93.51480582784384,
-              "Percent_3": 0.6213324364033379
-          },
-          "veg2000": {
-              "Area_km2_1": 163182.0281192218,
-              "Percent_1": 99.68552648801264
-          },
-          "veg2010": {
-              "Area_km2_1": 143072.3107585984,
-              "Percent_1": 87.4007927723962
-          },
-          "veg2020": {
-              "Area_km2_1": 139313.18227804944,
-              "Percent_1": 85.10439588335996
-          }
+        "NM_UF": "Acre",
+        "SIGLA_UF": "AC",
+        "densgeneral": {
+          "Area_general": "5.06 hab/Km²",
+          "Percent_1": 95.455,
+          "Percent_2": 0.0,
+          "Percent_3": 4.545,
+          "Percent_4": 0.0,
+          "Area_info_1": "21 município",
+          "Area_info_2": "0 municípios",
+          "Area_info_3": "1 município",
+          "Area_info_4": "0 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "5.8 Mil Km²",
+          "Area_info_2": "41.6 Mil Km²",
+          "Area_info_3": "101.2 Mil Km²",
+          "Area_info_4": "13.6 Mil Km²",
+          "Percent_1": 3.551212151768579,
+          "Percent_2": 25.662641095405412,
+          "Percent_3": 62.39905321901173,
+          "Percent_4": 8.387093533814266,
+          "Area_general": "162.2 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "162.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "162.2 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "162.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "162.2 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "162.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "162.2 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "159.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "159.4 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "52 Km²",
+          "Area_info_4": "18.3 Mil Km²",
+          "Area_info_5": "22.6 Mil Km²",
+          "Area_info_6": "122.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.03167292453504008,
+          "Percent_4": 11.228770373855085,
+          "Percent_5": 13.86122773646919,
+          "Percent_6": 74.87832896514068,
+          "Area_general": "163.1 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "9.5 Mil Km²",
+          "Area_info_2": "152.2 Mil Km²",
+          "Area_info_3": "1.0 Mil Km²",
+          "Percent_1": 5.863861735752832,
+          "Percent_2": 93.51480582784384,
+          "Percent_3": 0.6213324364033379,
+          "Area_general": "162.8 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "163.2 Mil Km²",
+          "Percent_1": 99.68552648801264,
+          "Area_general": "163.2 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "143.1 Mil Km²",
+          "Percent_1": 87.4007927723962,
+          "Area_general": "143.1 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "139.3 Mil Km²",
+          "Percent_1": 85.10439588335996,
+          "Area_general": "139.3 Mil Km²"
+        }
       }
     },
     {
@@ -3580,92 +3601,113 @@
       },
       "id": 27,
       "properties": {
-          "NM_UF": "Alagoas",
-          "SIGLA_UF": "AL",
-          "speigeneral": {
-              "Area_km2_1": 598.6933469008061,
-              "Area_km2_2": 8607.177135307811,
-              "Area_km2_3": 18064.342268350556,
-              "Area_km2_4": 285.0359193684714,
-              "Percent_1": 2.1727016659232286,
-              "Percent_2": 31.236071350360316,
-              "Percent_3": 65.55681091735178,
-              "Percent_4": 1.0344160663646804
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 10156.252033386962,
-              "Area_km2_3": 3004.373271828724,
-              "Area_km2_4": 14394.64462270544,
-              "Percent_1": 0.0,
-              "Percent_2": 36.857748299884605,
-              "Percent_3": 10.90308053482162,
-              "Percent_4": 52.239171165293776
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 11669.991374873589,
-              "Area_km2_3": 2769.994018660574,
-              "Area_km2_4": 13115.284534386963,
-              "Percent_1": 0.0,
-              "Percent_2": 42.351214143065434,
-              "Percent_3": 10.0525018477638,
-              "Percent_4": 47.596284009170766
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 11039.1502398876,
-              "Area_km2_3": 2928.5418029544107,
-              "Area_km2_4": 13587.577885079114,
-              "Percent_1": 0.0,
-              "Percent_2": 40.06184758401471,
-              "Percent_3": 10.627882835533347,
-              "Percent_4": 49.31026958045195
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 11415.459871892437,
-              "Area_km2_3": 3024.1349087897934,
-              "Area_km2_4": 12471.976429361268,
-              "Percent_1": 0.0,
-              "Percent_2": 42.41840724495545,
-              "Percent_3": 11.237303408212654,
-              "Percent_4": 46.34428934683189
-          },
-          "deggeneral": {
-              "Area_km2_1": 680.387342756069,
-              "Area_km2_2": 8442.062628242687,
-              "Area_km2_3": 5748.42911084634,
-              "Area_km2_4": 10284.723614629016,
-              "Area_km2_5": 1499.7733491001716,
-              "Area_km2_6": 636.483080298762,
-              "Percent_1": 2.493004744081552,
-              "Percent_2": 30.932530427139348,
-              "Percent_3": 21.062797826758356,
-              "Percent_4": 37.68421772659292,
-              "Percent_5": 5.495313976900776,
-              "Percent_6": 2.332135298527053
-          },
-          "odsgeneral": {
-              "Area_km2_1": 2002.9487373228094,
-              "Area_km2_2": 24425.99763108375,
-              "Area_km2_3": 471.43034144894204,
-              "Percent_1": 7.445801815068965,
-              "Percent_2": 90.80169357678471,
-              "Percent_3": 1.7525046081463387
-          },
-          "veg2000": {
-              "Area_km2_1": 6844.2036001048355,
-              "Percent_1": 24.62590527269316
-          },
-          "veg2010": {
-              "Area_km2_1": 5054.892938250456,
-              "Percent_1": 18.18784506338394
-          },
-          "veg2020": {
-              "Area_km2_1": 4424.433238457741,
-              "Percent_1": 15.919408623955377
-          }
+        "NM_UF": "Alagoas",
+        "SIGLA_UF": "AL",
+        "densgeneral": {
+          "Area_general": "112.38 hab/Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 1.961,
+          "Percent_3": 28.431,
+          "Percent_4": 69.608,
+          "Area_info_1": "0 municípios",
+          "Area_info_2": "2 municípios",
+          "Area_info_3": "29 municípios",
+          "Area_info_4": "71 município"
+        },
+        "speigeneral": {
+          "Area_info_1": "599 Km²",
+          "Area_info_2": "8.6 Mil Km²",
+          "Area_info_3": "18.1 Mil Km²",
+          "Area_info_4": "285 Km²",
+          "Percent_1": 2.1727016659232286,
+          "Percent_2": 31.236071350360316,
+          "Percent_3": 65.55681091735178,
+          "Percent_4": 1.0344160663646804,
+          "Area_general": "27.6 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "10.2 Mil Km²",
+          "Area_info_3": "3.0 Mil Km²",
+          "Area_info_4": "14.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 36.857748299884605,
+          "Percent_3": 10.90308053482162,
+          "Percent_4": 52.239171165293776,
+          "Area_general": "27.6 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "11.7 Mil Km²",
+          "Area_info_3": "2.8 Mil Km²",
+          "Area_info_4": "13.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 42.351214143065434,
+          "Percent_3": 10.0525018477638,
+          "Percent_4": 47.596284009170766,
+          "Area_general": "27.6 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "11.0 Mil Km²",
+          "Area_info_3": "2.9 Mil Km²",
+          "Area_info_4": "13.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 40.06184758401471,
+          "Percent_3": 10.627882835533347,
+          "Percent_4": 49.31026958045195,
+          "Area_general": "27.6 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "11.4 Mil Km²",
+          "Area_info_3": "3.0 Mil Km²",
+          "Area_info_4": "12.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 42.41840724495545,
+          "Percent_3": 11.237303408212654,
+          "Percent_4": 46.34428934683189,
+          "Area_general": "26.9 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "680 Km²",
+          "Area_info_2": "8.4 Mil Km²",
+          "Area_info_3": "5.7 Mil Km²",
+          "Area_info_4": "10.3 Mil Km²",
+          "Area_info_5": "1.5 Mil Km²",
+          "Area_info_6": "636 Km²",
+          "Percent_1": 2.493004744081552,
+          "Percent_2": 30.932530427139348,
+          "Percent_3": 21.062797826758356,
+          "Percent_4": 37.68421772659292,
+          "Percent_5": 5.495313976900776,
+          "Percent_6": 2.332135298527053,
+          "Area_general": "27.3 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "2.0 Mil Km²",
+          "Area_info_2": "24.4 Mil Km²",
+          "Area_info_3": "471 Km²",
+          "Percent_1": 7.445801815068965,
+          "Percent_2": 90.80169357678471,
+          "Percent_3": 1.7525046081463387,
+          "Area_general": "26.9 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "6.8 Mil Km²",
+          "Percent_1": 24.62590527269316,
+          "Area_general": "6.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "5.1 Mil Km²",
+          "Percent_1": 18.18784506338394,
+          "Area_general": "5.1 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "4.4 Mil Km²",
+          "Percent_1": 15.919408623955377,
+          "Area_general": "4.4 Mil Km²"
+        }
       }
     },
     {
@@ -5246,7 +5288,7 @@
               [-60.20275, -0.033268],
               [-60.181137, -0.009602],
               [-60.181569, -0.007908],
-              [-60.183579, -0.000023],
+              [-60.183579, -2.3e-5],
               [-60.174674, 0.000347],
               [-60.170479, 0.000521],
               [-60.160198, 0.016603],
@@ -8636,92 +8678,113 @@
       },
       "id": 13,
       "properties": {
-          "NM_UF": "Amazonas",
-          "SIGLA_UF": "AM",
-          "speigeneral": {
-              "Area_km2_1": 332505.9485507141,
-              "Area_km2_2": 755930.4632873128,
-              "Area_km2_3": 383812.3950879127,
-              "Area_km2_4": 49519.52948108305,
-              "Percent_1": 21.849971549268705,
-              "Percent_2": 49.674477067390264,
-              "Percent_3": 25.221473328464334,
-              "Percent_4": 3.2540780548766928
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1554524.6776491678,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1554524.677649168,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1554524.6776491683,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1553772.1302704727,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 2625.303650479046,
-              "Area_km2_3": 11418.570084622108,
-              "Area_km2_4": 43449.48830615359,
-              "Area_km2_5": 112097.8301727734,
-              "Area_km2_6": 1352287.680624248,
-              "Percent_1": 0.0,
-              "Percent_2": 0.17250411299704177,
-              "Percent_3": 0.7502942769240685,
-              "Percent_4": 2.8549899129042435,
-              "Percent_5": 7.365752437558516,
-              "Percent_6": 88.85645925961613
-          },
-          "odsgeneral": {
-              "Area_km2_1": 20849.369146105037,
-              "Area_km2_2": 1470928.2491666684,
-              "Area_km2_3": 3004.300774117316,
-              "Percent_1": 1.3948100977058362,
-              "Percent_2": 98.40420401025497,
-              "Percent_3": 0.20098589203919034
-          },
-          "veg2000": {
-              "Area_km2_1": 1506795.2880930223,
-              "Percent_1": 96.70705863926361
-          },
-          "veg2010": {
-              "Area_km2_1": 1472757.047155511,
-              "Percent_1": 94.52246316811157
-          },
-          "veg2020": {
-              "Area_km2_1": 1463937.6623259417,
-              "Percent_1": 93.9564295651297
-          }
+        "NM_UF": "Amazonas",
+        "SIGLA_UF": "AM",
+        "densgeneral": {
+          "Area_general": "2.53 hab/Km²",
+          "Percent_1": 91.935,
+          "Percent_2": 4.839,
+          "Percent_3": 1.613,
+          "Percent_4": 1.613,
+          "Area_info_1": "57 municípios",
+          "Area_info_2": "3 municípios",
+          "Area_info_3": "1 município",
+          "Area_info_4": "1 município"
+        },
+        "speigeneral": {
+          "Area_info_1": "332.5 Mil Km²",
+          "Area_info_2": "755.9 Mil Km²",
+          "Area_info_3": "383.8 Mil Km²",
+          "Area_info_4": "49.5 Mil Km²",
+          "Percent_1": 21.849971549268705,
+          "Percent_2": 49.674477067390264,
+          "Percent_3": 25.221473328464334,
+          "Percent_4": 3.2540780548766928,
+          "Area_general": "1521.8 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1554.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1554.5 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1554.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1554.5 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1554.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1554.5 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1553.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1553.8 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "2.6 Mil Km²",
+          "Area_info_3": "11.4 Mil Km²",
+          "Area_info_4": "43.4 Mil Km²",
+          "Area_info_5": "112.1 Mil Km²",
+          "Area_info_6": "1352.3 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.17250411299704177,
+          "Percent_3": 0.7502942769240685,
+          "Percent_4": 2.8549899129042435,
+          "Percent_5": 7.365752437558516,
+          "Percent_6": 88.85645925961613,
+          "Area_general": "1521.9 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "20.8 Mil Km²",
+          "Area_info_2": "1470.9 Mil Km²",
+          "Area_info_3": "3.0 Mil Km²",
+          "Percent_1": 1.3948100977058362,
+          "Percent_2": 98.40420401025497,
+          "Percent_3": 0.20098589203919034,
+          "Area_general": "1494.8 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "1506.8 Mil Km²",
+          "Percent_1": 96.70705863926361,
+          "Area_general": "1506.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "1472.8 Mil Km²",
+          "Percent_1": 94.52246316811157,
+          "Area_general": "1472.8 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "1463.9 Mil Km²",
+          "Percent_1": 93.9564295651297,
+          "Area_general": "1463.9 Mil Km²"
+        }
       }
     },
     {
@@ -9228,9 +9291,9 @@
               [-50.980109, 0.035221],
               [-50.98299, 0.029679],
               [-50.996451, 0.003774],
-              [-51.000011, -0.000023],
-              [-51.00221, -0.000023],
-              [-51.007015, -0.000023],
+              [-51.000011, -2.3e-5],
+              [-51.00221, -2.3e-5],
+              [-51.007015, -2.3e-5],
               [-51.065214, -0.075901],
               [-51.084457, -0.087216],
               [-51.092862, -0.087784],
@@ -10919,92 +10982,113 @@
       },
       "id": 16,
       "properties": {
-          "NM_UF": "Amapá",
-          "SIGLA_UF": "AP",
-          "speigeneral": {
-              "Area_km2_1": 58534.17630659453,
-              "Area_km2_2": 58702.35010379919,
-              "Area_km2_3": 5529.015934086795,
-              "Area_km2_4": 0.0,
-              "Percent_1": 47.67964624987966,
-              "Percent_2": 47.816634034882696,
-              "Percent_3": 4.503719715237651,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 140821.79584088403,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 140821.795840884,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 140821.795840884,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 138285.9130126554,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 73.5572107837565,
-              "Area_km2_3": 193.1399335512724,
-              "Area_km2_4": 8090.673087037741,
-              "Area_km2_5": 15559.272435493778,
-              "Area_km2_6": 113845.7700536116,
-              "Percent_1": 0.0,
-              "Percent_2": 0.053394252707380435,
-              "Percent_3": 0.1401978447801695,
-              "Percent_4": 5.872917675631763,
-              "Percent_5": 11.294279860693033,
-              "Percent_6": 82.63921036618767
-          },
-          "odsgeneral": {
-              "Area_km2_1": 1646.5146801748638,
-              "Area_km2_2": 131269.07461636444,
-              "Area_km2_3": 3496.2139069663417,
-              "Percent_1": 1.2070177517692615,
-              "Percent_2": 96.22999735626317,
-              "Percent_3": 2.562984891967539
-          },
-          "veg2000": {
-              "Area_km2_1": 138721.42244192158,
-              "Percent_1": 97.93769616949723
-          },
-          "veg2010": {
-              "Area_km2_1": 135773.4026552033,
-              "Percent_1": 95.85638629614903
-          },
-          "veg2020": {
-              "Area_km2_1": 135555.83785942523,
-              "Percent_1": 95.70278496701754
-          }
+        "NM_UF": "Amapá",
+        "SIGLA_UF": "AP",
+        "densgeneral": {
+          "Area_general": "5.15 hab/Km²",
+          "Percent_1": 87.5,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 12.5,
+          "Area_info_1": "14 municípios",
+          "Area_info_2": "0 municípios",
+          "Area_info_3": "0 municípios",
+          "Area_info_4": "2 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "58.5 Mil Km²",
+          "Area_info_2": "58.7 Mil Km²",
+          "Area_info_3": "5.5 Mil Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 47.67964624987966,
+          "Percent_2": 47.816634034882696,
+          "Percent_3": 4.503719715237651,
+          "Percent_4": 0.0,
+          "Area_general": "122.8 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "140.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "140.8 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "140.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "140.8 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "140.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "140.8 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "138.3 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "138.3 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "74 Km²",
+          "Area_info_3": "193 Km²",
+          "Area_info_4": "8.1 Mil Km²",
+          "Area_info_5": "15.6 Mil Km²",
+          "Area_info_6": "113.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.053394252707380435,
+          "Percent_3": 0.1401978447801695,
+          "Percent_4": 5.872917675631763,
+          "Percent_5": 11.294279860693033,
+          "Percent_6": 82.63921036618767,
+          "Area_general": "137.8 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "1.6 Mil Km²",
+          "Area_info_2": "131.3 Mil Km²",
+          "Area_info_3": "3.5 Mil Km²",
+          "Percent_1": 1.2070177517692615,
+          "Percent_2": 96.22999735626317,
+          "Percent_3": 2.562984891967539,
+          "Area_general": "136.4 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "138.7 Mil Km²",
+          "Percent_1": 97.93769616949723,
+          "Area_general": "138.7 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "135.8 Mil Km²",
+          "Percent_1": 95.85638629614903,
+          "Area_general": "135.8 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "135.6 Mil Km²",
+          "Percent_1": 95.70278496701754,
+          "Area_general": "135.6 Mil Km²"
+        }
       }
     },
     {
@@ -15668,92 +15752,113 @@
       },
       "id": 29,
       "properties": {
-          "NM_UF": "Bahia",
-          "SIGLA_UF": "BA",
-          "speigeneral": {
-              "Area_km2_1": 10846.15981186263,
-              "Area_km2_2": 252088.12804351872,
-              "Area_km2_3": 296135.8129975179,
-              "Area_km2_4": 4560.979526384792,
-              "Percent_1": 1.924336714108088,
-              "Percent_2": 44.72573227755311,
-              "Percent_3": 52.5407173781544,
-              "Percent_4": 0.8092136301844062
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 217866.64801014736,
-              "Area_km2_3": 158176.25016901328,
-              "Area_km2_4": 187588.27112093262,
-              "Percent_1": 0.0,
-              "Percent_2": 38.65411635781075,
-              "Percent_3": 28.063786884858338,
-              "Percent_4": 33.282096757330905
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 256823.09065175825,
-              "Area_km2_3": 127310.4383261069,
-              "Area_km2_4": 179497.64032222814,
-              "Percent_1": 0.0,
-              "Percent_2": 45.56580697456395,
-              "Percent_3": 22.5875439933882,
-              "Percent_4": 31.846649032047846
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 307177.2349975671,
-              "Area_km2_3": 106127.93195781152,
-              "Area_km2_4": 150326.00234471477,
-              "Percent_1": 0.0,
-              "Percent_2": 54.49968911034747,
-              "Percent_3": 18.829322744801217,
-              "Percent_4": 26.67098814485132
-          },
-          "ia2020": {
-              "Area_km2_1": 5676.456134120219,
-              "Area_km2_2": 330386.47576721734,
-              "Area_km2_3": 103949.51503864808,
-              "Area_km2_4": 120627.74806007647,
-              "Percent_1": 1.0124953909377814,
-              "Percent_2": 58.9302156202305,
-              "Percent_3": 18.5412169811757,
-              "Percent_4": 21.516072007656017
-          },
-          "deggeneral": {
-              "Area_km2_1": 2157.180831214849,
-              "Area_km2_2": 68935.87729459978,
-              "Area_km2_3": 119590.80062741353,
-              "Area_km2_4": 237657.32077608685,
-              "Area_km2_5": 107777.97880392298,
-              "Area_km2_6": 21258.818461799758,
-              "Percent_1": 0.38702297561500176,
-              "Percent_2": 12.367886813717664,
-              "Percent_3": 21.455960875072417,
-              "Percent_4": 42.638448354675404,
-              "Percent_5": 19.33660519270135,
-              "Percent_6": 3.8140757882181573
-          },
-          "odsgeneral": {
-              "Area_km2_1": 58188.15995586846,
-              "Area_km2_2": 492242.3137657895,
-              "Area_km2_3": 1959.9643079168447,
-              "Percent_1": 10.533882549348743,
-              "Percent_2": 89.11130241893053,
-              "Percent_3": 0.3548150317207172
-          },
-          "veg2000": {
-              "Area_km2_1": 338837.79536641744,
-              "Percent_1": 60.01054955058809
-          },
-          "veg2010": {
-              "Area_km2_1": 314429.89293712424,
-              "Percent_1": 55.68773887778503
-          },
-          "veg2020": {
-              "Area_km2_1": 292589.9393412939,
-              "Percent_1": 51.81972995030449
-          }
+        "NM_UF": "Bahia",
+        "SIGLA_UF": "BA",
+        "densgeneral": {
+          "Area_general": "25.04 hab/Km²",
+          "Percent_1": 23.981,
+          "Percent_2": 29.257,
+          "Percent_3": 24.94,
+          "Percent_4": 21.823,
+          "Area_info_1": "100 municípios",
+          "Area_info_2": "122 municípios",
+          "Area_info_3": "104 municípios",
+          "Area_info_4": "91 município"
+        },
+        "speigeneral": {
+          "Area_info_1": "10.8 Mil Km²",
+          "Area_info_2": "252.1 Mil Km²",
+          "Area_info_3": "296.1 Mil Km²",
+          "Area_info_4": "4.6 Mil Km²",
+          "Percent_1": 1.924336714108088,
+          "Percent_2": 44.72573227755311,
+          "Percent_3": 52.5407173781544,
+          "Percent_4": 0.8092136301844062,
+          "Area_general": "563.6 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "217.9 Mil Km²",
+          "Area_info_3": "158.2 Mil Km²",
+          "Area_info_4": "187.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 38.65411635781075,
+          "Percent_3": 28.063786884858338,
+          "Percent_4": 33.282096757330905,
+          "Area_general": "563.6 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "256.8 Mil Km²",
+          "Area_info_3": "127.3 Mil Km²",
+          "Area_info_4": "179.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 45.56580697456395,
+          "Percent_3": 22.5875439933882,
+          "Percent_4": 31.846649032047846,
+          "Area_general": "563.6 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "307.2 Mil Km²",
+          "Area_info_3": "106.1 Mil Km²",
+          "Area_info_4": "150.3 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 54.49968911034747,
+          "Percent_3": 18.829322744801217,
+          "Percent_4": 26.67098814485132,
+          "Area_general": "563.6 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "5.7 Mil Km²",
+          "Area_info_2": "330.4 Mil Km²",
+          "Area_info_3": "103.9 Mil Km²",
+          "Area_info_4": "120.6 Mil Km²",
+          "Percent_1": 1.0124953909377814,
+          "Percent_2": 58.9302156202305,
+          "Percent_3": 18.5412169811757,
+          "Percent_4": 21.516072007656017,
+          "Area_general": "560.6 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "2.2 Mil Km²",
+          "Area_info_2": "68.9 Mil Km²",
+          "Area_info_3": "119.6 Mil Km²",
+          "Area_info_4": "237.7 Mil Km²",
+          "Area_info_5": "107.8 Mil Km²",
+          "Area_info_6": "21.3 Mil Km²",
+          "Percent_1": 0.38702297561500176,
+          "Percent_2": 12.367886813717664,
+          "Percent_3": 21.455960875072417,
+          "Percent_4": 42.638448354675404,
+          "Percent_5": 19.33660519270135,
+          "Percent_6": 3.8140757882181573,
+          "Area_general": "557.4 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "58.2 Mil Km²",
+          "Area_info_2": "492.2 Mil Km²",
+          "Area_info_3": "2.0 Mil Km²",
+          "Percent_1": 10.533882549348743,
+          "Percent_2": 89.11130241893053,
+          "Percent_3": 0.3548150317207172,
+          "Area_general": "552.4 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "338.8 Mil Km²",
+          "Percent_1": 60.01054955058809,
+          "Area_general": "338.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "314.4 Mil Km²",
+          "Percent_1": 55.68773887778503,
+          "Area_general": "314.4 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "292.6 Mil Km²",
+          "Percent_1": 51.81972995030449,
+          "Area_general": "292.6 Mil Km²"
+        }
       }
     },
     {
@@ -17525,92 +17630,113 @@
       },
       "id": 23,
       "properties": {
-          "NM_UF": "Ceará",
-          "SIGLA_UF": "CE",
-          "speigeneral": {
-              "Area_km2_1": 5364.116836780098,
-              "Area_km2_2": 114354.52493299505,
-              "Area_km2_3": 28596.895094252006,
-              "Area_km2_4": 0.0,
-              "Percent_1": 3.6166924586584734,
-              "Percent_2": 77.10218858448599,
-              "Percent_3": 19.281118956855543,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 78317.11890776208,
-              "Area_km2_3": 45058.96088695281,
-              "Area_km2_4": 24939.482549906243,
-              "Percent_1": 0.0,
-              "Percent_2": 52.80438388912083,
-              "Percent_3": 30.380467278447355,
-              "Percent_4": 16.815148832431813
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 97736.40857448583,
-              "Area_km2_3": 35171.660286405015,
-              "Area_km2_4": 15407.493483730304,
-              "Percent_1": 0.0,
-              "Percent_2": 65.89760847036992,
-              "Percent_3": 23.714072704441698,
-              "Percent_4": 10.388318825188392
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 109281.3326393096,
-              "Area_km2_3": 27339.211401080585,
-              "Area_km2_4": 11695.018304230958,
-              "Percent_1": 0.0,
-              "Percent_2": 73.68163590641088,
-              "Percent_3": 18.4331374057404,
-              "Percent_4": 7.885226687848708
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 119025.31204451901,
-              "Area_km2_3": 20611.692280329742,
-              "Area_km2_4": 6579.091308661676,
-              "Percent_1": 0.0,
-              "Percent_2": 81.40370013904288,
-              "Percent_3": 14.096732778306976,
-              "Percent_4": 4.499567082650134
-          },
-          "deggeneral": {
-              "Area_km2_1": 2070.9287936391975,
-              "Area_km2_2": 34796.989126447734,
-              "Area_km2_3": 20172.896650562114,
-              "Area_km2_4": 80852.72236244095,
-              "Area_km2_5": 8674.19163176696,
-              "Area_km2_6": 712.9134829578479,
-              "Percent_1": 1.4061106502827903,
-              "Percent_2": 23.626315476782658,
-              "Percent_3": 13.696909770404833,
-              "Percent_4": 54.897046372320965,
-              "Percent_5": 5.889566687895668,
-              "Percent_6": 0.48405104231308266
-          },
-          "odsgeneral": {
-              "Area_km2_1": 9145.338181878244,
-              "Area_km2_2": 134917.708071579,
-              "Area_km2_3": 2052.1166724959303,
-              "Percent_1": 6.258993248026442,
-              "Percent_2": 92.33655520060658,
-              "Percent_3": 1.4044515513669735
-          },
-          "veg2000": {
-              "Area_km2_1": 104253.84518913258,
-              "Percent_1": 70.03091147204815
-          },
-          "veg2010": {
-              "Area_km2_1": 95180.38234803558,
-              "Percent_1": 63.935952846617816
-          },
-          "veg2020": {
-              "Area_km2_1": 88099.67868928888,
-              "Percent_1": 59.17959944607016
-          }
+        "NM_UF": "Ceará",
+        "SIGLA_UF": "CE",
+        "densgeneral": {
+          "Area_general": "59.07 hab/Km²",
+          "Percent_1": 4.348,
+          "Percent_2": 24.457,
+          "Percent_3": 30.978,
+          "Percent_4": 40.217,
+          "Area_info_1": "8 municípios",
+          "Area_info_2": "45 municípios",
+          "Area_info_3": "57 municípios",
+          "Area_info_4": "74 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "5.4 Mil Km²",
+          "Area_info_2": "114.4 Mil Km²",
+          "Area_info_3": "28.6 Mil Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 3.6166924586584734,
+          "Percent_2": 77.10218858448599,
+          "Percent_3": 19.281118956855543,
+          "Percent_4": 0.0,
+          "Area_general": "148.3 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "78.3 Mil Km²",
+          "Area_info_3": "45.1 Mil Km²",
+          "Area_info_4": "24.9 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 52.80438388912083,
+          "Percent_3": 30.380467278447355,
+          "Percent_4": 16.815148832431813,
+          "Area_general": "148.3 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "97.7 Mil Km²",
+          "Area_info_3": "35.2 Mil Km²",
+          "Area_info_4": "15.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 65.89760847036992,
+          "Percent_3": 23.714072704441698,
+          "Percent_4": 10.388318825188392,
+          "Area_general": "148.3 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "109.3 Mil Km²",
+          "Area_info_3": "27.3 Mil Km²",
+          "Area_info_4": "11.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 73.68163590641088,
+          "Percent_3": 18.4331374057404,
+          "Percent_4": 7.885226687848708,
+          "Area_general": "148.3 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "119.0 Mil Km²",
+          "Area_info_3": "20.6 Mil Km²",
+          "Area_info_4": "6.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 81.40370013904288,
+          "Percent_3": 14.096732778306976,
+          "Percent_4": 4.499567082650134,
+          "Area_general": "146.2 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "2.1 Mil Km²",
+          "Area_info_2": "34.8 Mil Km²",
+          "Area_info_3": "20.2 Mil Km²",
+          "Area_info_4": "80.9 Mil Km²",
+          "Area_info_5": "8.7 Mil Km²",
+          "Area_info_6": "713 Km²",
+          "Percent_1": 1.4061106502827903,
+          "Percent_2": 23.626315476782658,
+          "Percent_3": 13.696909770404833,
+          "Percent_4": 54.897046372320965,
+          "Percent_5": 5.889566687895668,
+          "Percent_6": 0.48405104231308266,
+          "Area_general": "147.3 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "9.1 Mil Km²",
+          "Area_info_2": "134.9 Mil Km²",
+          "Area_info_3": "2.1 Mil Km²",
+          "Percent_1": 6.258993248026442,
+          "Percent_2": 92.33655520060658,
+          "Percent_3": 1.4044515513669735,
+          "Area_general": "146.1 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "104.3 Mil Km²",
+          "Percent_1": 70.03091147204815,
+          "Area_general": "104.3 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "95.2 Mil Km²",
+          "Percent_1": 63.935952846617816,
+          "Area_general": "95.2 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "88.1 Mil Km²",
+          "Percent_1": 59.17959944607016,
+          "Area_general": "88.1 Mil Km²"
+        }
       }
     },
     {
@@ -19087,92 +19213,113 @@
       },
       "id": 32,
       "properties": {
-          "NM_UF": "Espírito Santo",
-          "SIGLA_UF": "ES",
-          "speigeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 20396.100625375933,
-              "Area_km2_3": 25254.353950296703,
-              "Area_km2_4": 0.0,
-              "Percent_1": 0.0,
-              "Percent_2": 44.6788554790101,
-              "Percent_3": 55.3211445209899,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 45650.48388118854,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 45650.48388118855,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 45650.48388118855,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 45573.135386518225,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 45.01787186463983,
-              "Area_km2_3": 10036.629105060854,
-              "Area_km2_4": 22849.194098240234,
-              "Area_km2_5": 5214.724264410174,
-              "Area_km2_6": 6658.23542641752,
-              "Percent_1": 0.0,
-              "Percent_2": 0.10047779673819299,
-              "Percent_3": 22.40128947425988,
-              "Percent_4": 50.998338773935046,
-              "Percent_5": 11.639022081287816,
-              "Percent_6": 14.860871873779052
-          },
-          "odsgeneral": {
-              "Area_km2_1": 1198.4930267552515,
-              "Area_km2_2": 42403.35909028285,
-              "Area_km2_3": 319.07999550389377,
-              "Percent_1": 2.7287513472716385,
-              "Percent_2": 96.54476134893825,
-              "Percent_3": 0.7264873037901165
-          },
-          "veg2000": {
-              "Area_km2_1": 12767.057244124497,
-              "Percent_1": 27.720930562944368
-          },
-          "veg2010": {
-              "Area_km2_1": 12260.10174766166,
-              "Percent_1": 26.620185273937636
-          },
-          "veg2020": {
-              "Area_km2_1": 12015.651738267978,
-              "Percent_1": 26.08941443090472
-          }
+        "NM_UF": "Espírito Santo",
+        "SIGLA_UF": "ES",
+        "densgeneral": {
+          "Area_general": "83.21 hab/Km²",
+          "Percent_1": 2.564,
+          "Percent_2": 11.538,
+          "Percent_3": 46.154,
+          "Percent_4": 39.744,
+          "Area_info_1": "2 municípios",
+          "Area_info_2": "9 municípios",
+          "Area_info_3": "36 municípios",
+          "Area_info_4": "31 município"
+        },
+        "speigeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "20.4 Mil Km²",
+          "Area_info_3": "25.3 Mil Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 44.6788554790101,
+          "Percent_3": 55.3211445209899,
+          "Percent_4": 0.0,
+          "Area_general": "45.7 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "45.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "45.7 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "45.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "45.7 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "45.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "45.7 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "45.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "45.6 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "45 Km²",
+          "Area_info_3": "10.0 Mil Km²",
+          "Area_info_4": "22.8 Mil Km²",
+          "Area_info_5": "5.2 Mil Km²",
+          "Area_info_6": "6.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.10047779673819299,
+          "Percent_3": 22.40128947425988,
+          "Percent_4": 50.998338773935046,
+          "Percent_5": 11.639022081287816,
+          "Percent_6": 14.860871873779052,
+          "Area_general": "44.8 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "1.2 Mil Km²",
+          "Area_info_2": "42.4 Mil Km²",
+          "Area_info_3": "319 Km²",
+          "Percent_1": 2.7287513472716385,
+          "Percent_2": 96.54476134893825,
+          "Percent_3": 0.7264873037901165,
+          "Area_general": "43.9 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "12.8 Mil Km²",
+          "Percent_1": 27.720930562944368,
+          "Area_general": "12.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "12.3 Mil Km²",
+          "Percent_1": 26.620185273937636,
+          "Area_general": "12.3 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "12.0 Mil Km²",
+          "Percent_1": 26.08941443090472,
+          "Area_general": "12.0 Mil Km²"
+        }
       }
     },
     {
@@ -23318,92 +23465,113 @@
       },
       "id": 52,
       "properties": {
-          "NM_UF": "Goiás",
-          "SIGLA_UF": "GO",
-          "speigeneral": {
-              "Area_km2_1": 56376.3804680028,
-              "Area_km2_2": 192340.67554849616,
-              "Area_km2_3": 90996.84803580385,
-              "Area_km2_4": 246.5684656968635,
-              "Percent_1": 16.58321629289354,
-              "Percent_2": 56.5773644576613,
-              "Percent_3": 26.766890680499888,
-              "Percent_4": 0.07252856894526424
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 340242.62301238894,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 340242.62301238894,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 340242.62301238894,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 340242.63265607884,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 10234.66335874999,
-              "Area_km2_3": 179396.10522519678,
-              "Area_km2_4": 63979.8036172488,
-              "Area_km2_5": 82019.69006009575,
-              "Area_km2_6": 493.2017017213369,
-              "Percent_1": 0.0,
-              "Percent_2": 3.0449119017398383,
-              "Percent_3": 53.37208628938137,
-              "Percent_4": 19.03461390731389,
-              "Percent_5": 24.401655597932695,
-              "Percent_6": 0.14673230363221812
-          },
-          "odsgeneral": {
-              "Area_km2_1": 30088.003567022133,
-              "Area_km2_2": 294094.3101463115,
-              "Area_km2_3": 10955.693711614571,
-              "Percent_1": 8.977795087523795,
-              "Percent_2": 87.75319528990511,
-              "Percent_3": 3.2690096225710894
-          },
-          "veg2000": {
-              "Area_km2_1": 140625.47879481732,
-              "Percent_1": 41.33139194746075
-          },
-          "veg2010": {
-              "Area_km2_1": 129557.55735874869,
-              "Percent_1": 38.07840676413341
-          },
-          "veg2020": {
-              "Area_km2_1": 119683.96787716364,
-              "Percent_1": 35.17644902298218
-          }
+        "NM_UF": "Goiás",
+        "SIGLA_UF": "GO",
+        "densgeneral": {
+          "Area_general": "20.74 hab/Km²",
+          "Percent_1": 55.691,
+          "Percent_2": 21.138,
+          "Percent_3": 13.415,
+          "Percent_4": 9.756,
+          "Area_info_1": "137 municípios",
+          "Area_info_2": "52 municípios",
+          "Area_info_3": "33 municípios",
+          "Area_info_4": "24 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "56.4 Mil Km²",
+          "Area_info_2": "192.3 Mil Km²",
+          "Area_info_3": "91.0 Mil Km²",
+          "Area_info_4": "247 Km²",
+          "Percent_1": 16.58321629289354,
+          "Percent_2": 56.5773644576613,
+          "Percent_3": 26.766890680499888,
+          "Percent_4": 0.07252856894526424,
+          "Area_general": "340.0 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "340.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "340.2 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "340.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "340.2 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "340.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "340.2 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "340.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "340.2 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "10.2 Mil Km²",
+          "Area_info_3": "179.4 Mil Km²",
+          "Area_info_4": "64.0 Mil Km²",
+          "Area_info_5": "82.0 Mil Km²",
+          "Area_info_6": "493 Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 3.0449119017398383,
+          "Percent_3": 53.37208628938137,
+          "Percent_4": 19.03461390731389,
+          "Percent_5": 24.401655597932695,
+          "Percent_6": 0.14673230363221812,
+          "Area_general": "336.1 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "30.1 Mil Km²",
+          "Area_info_2": "294.1 Mil Km²",
+          "Area_info_3": "11.0 Mil Km²",
+          "Percent_1": 8.977795087523795,
+          "Percent_2": 87.75319528990511,
+          "Percent_3": 3.2690096225710894,
+          "Area_general": "335.1 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "140.6 Mil Km²",
+          "Percent_1": 41.33139194746075,
+          "Area_general": "140.6 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "129.6 Mil Km²",
+          "Percent_1": 38.07840676413341,
+          "Area_general": "129.6 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "119.7 Mil Km²",
+          "Percent_1": 35.17644902298218,
+          "Area_general": "119.7 Mil Km²"
+        }
       }
     },
     {
@@ -29297,92 +29465,113 @@
       },
       "id": 21,
       "properties": {
-          "NM_UF": "Maranhão",
-          "SIGLA_UF": "MA",
-          "speigeneral": {
-              "Area_km2_1": 5559.6450752699975,
-              "Area_km2_2": 214611.81370509052,
-              "Area_km2_3": 107062.77494892021,
-              "Area_km2_4": 580.8864794547948,
-              "Percent_1": 1.6959696891741618,
-              "Percent_2": 65.46733218664133,
-              "Percent_3": 32.65949870791445,
-              "Percent_4": 0.17719941627003555
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 152.10301315380187,
-              "Area_km2_4": 327663.0351631186,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.04639902049673288,
-              "Percent_4": 99.95360097950325
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 1030.7408779310524,
-              "Area_km2_4": 326784.3972983412,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.31442747997098414,
-              "Percent_4": 99.68557252002901
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 2719.5172949996795,
-              "Area_km2_4": 325095.6208812726,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.8295886852965725,
-              "Percent_4": 99.17041131470343
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 7072.649604978461,
-              "Area_km2_4": 317706.7756568241,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 2.177677849906054,
-              "Percent_4": 97.82232215009395
-          },
-          "deggeneral": {
-              "Area_km2_1": 10.032256037454044,
-              "Area_km2_2": 1718.979717471846,
-              "Area_km2_3": 26033.52791261049,
-              "Area_km2_4": 158139.95634960246,
-              "Area_km2_5": 101273.05817078642,
-              "Area_km2_6": 34854.096000527024,
-              "Percent_1": 0.003115320600066975,
-              "Percent_2": 0.5337954797948288,
-              "Percent_3": 8.084202147133006,
-              "Percent_4": 49.107265790500456,
-              "Percent_5": 31.448364472892592,
-              "Percent_6": 10.823256789079052
-          },
-          "odsgeneral": {
-              "Area_km2_1": 25622.228278871327,
-              "Area_km2_2": 279591.0014497462,
-              "Area_km2_3": 17382.392175603498,
-              "Percent_1": 7.942522011807895,
-              "Percent_2": 86.66918658082628,
-              "Percent_3": 5.388291407365829
-          },
-          "veg2000": {
-              "Area_km2_1": 271842.23417296354,
-              "Percent_1": 82.97946038473503
-          },
-          "veg2010": {
-              "Area_km2_1": 183515.7053513363,
-              "Percent_1": 56.01791144965672
-          },
-          "veg2020": {
-              "Area_km2_1": 165969.49984404343,
-              "Percent_1": 50.66195684891414
-          }
+        "NM_UF": "Maranhão",
+        "SIGLA_UF": "MA",
+        "densgeneral": {
+          "Area_general": "20.56 hab/Km²",
+          "Percent_1": 26.728,
+          "Percent_2": 37.788,
+          "Percent_3": 23.502,
+          "Percent_4": 11.982,
+          "Area_info_1": "58 municípios",
+          "Area_info_2": "82 municípios",
+          "Area_info_3": "51 município",
+          "Area_info_4": "26 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "5.6 Mil Km²",
+          "Area_info_2": "214.6 Mil Km²",
+          "Area_info_3": "107.1 Mil Km²",
+          "Area_info_4": "581 Km²",
+          "Percent_1": 1.6959696891741618,
+          "Percent_2": 65.46733218664133,
+          "Percent_3": 32.65949870791445,
+          "Percent_4": 0.17719941627003555,
+          "Area_general": "327.8 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "152 Km²",
+          "Area_info_4": "327.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.04639902049673288,
+          "Percent_4": 99.95360097950325,
+          "Area_general": "327.8 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "1.0 Mil Km²",
+          "Area_info_4": "326.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.31442747997098414,
+          "Percent_4": 99.68557252002901,
+          "Area_general": "327.8 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "2.7 Mil Km²",
+          "Area_info_4": "325.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.8295886852965725,
+          "Percent_4": 99.17041131470343,
+          "Area_general": "327.8 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "7.1 Mil Km²",
+          "Area_info_4": "317.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 2.177677849906054,
+          "Percent_4": 97.82232215009395,
+          "Area_general": "324.8 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "10 Km²",
+          "Area_info_2": "1.7 Mil Km²",
+          "Area_info_3": "26.0 Mil Km²",
+          "Area_info_4": "158.1 Mil Km²",
+          "Area_info_5": "101.3 Mil Km²",
+          "Area_info_6": "34.9 Mil Km²",
+          "Percent_1": 0.003115320600066975,
+          "Percent_2": 0.5337954797948288,
+          "Percent_3": 8.084202147133006,
+          "Percent_4": 49.107265790500456,
+          "Percent_5": 31.448364472892592,
+          "Percent_6": 10.823256789079052,
+          "Area_general": "322.0 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "25.6 Mil Km²",
+          "Area_info_2": "279.6 Mil Km²",
+          "Area_info_3": "17.4 Mil Km²",
+          "Percent_1": 7.942522011807895,
+          "Percent_2": 86.66918658082628,
+          "Percent_3": 5.388291407365829,
+          "Area_general": "322.6 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "271.8 Mil Km²",
+          "Percent_1": 82.97946038473503,
+          "Area_general": "271.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "183.5 Mil Km²",
+          "Percent_1": 56.01791144965672,
+          "Area_general": "183.5 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "166.0 Mil Km²",
+          "Percent_1": 50.66195684891414,
+          "Area_general": "166.0 Mil Km²"
+        }
       }
     },
     {
@@ -35004,92 +35193,113 @@
       },
       "id": 31,
       "properties": {
-          "NM_UF": "Minas Gerais",
-          "SIGLA_UF": "MG",
-          "speigeneral": {
-              "Area_km2_1": 64494.08989400062,
-              "Area_km2_2": 319729.99270074046,
-              "Area_km2_3": 198426.91208364602,
-              "Area_km2_4": 473.4089097574659,
-              "Percent_1": 11.060091036689352,
-              "Percent_2": 54.83049427074961,
-              "Percent_3": 34.02822980185085,
-              "Percent_4": 0.08118489071018717
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 6123.6332122376125,
-              "Area_km2_3": 55362.73696424701,
-              "Area_km2_4": 525027.3078474493,
-              "Percent_1": 0.0,
-              "Percent_2": 1.0440733851031732,
-              "Percent_3": 9.439291705996295,
-              "Percent_4": 89.51663490890054
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 10542.912458574157,
-              "Area_km2_3": 53607.48958744588,
-              "Area_km2_4": 522363.27597791393,
-              "Percent_1": 0.0,
-              "Percent_2": 1.797556110557396,
-              "Percent_3": 9.140023770299575,
-              "Percent_4": 89.06242011914303
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 16986.973315905594,
-              "Area_km2_3": 56705.33045833767,
-              "Area_km2_4": 512821.37424969074,
-              "Percent_1": 0.0,
-              "Percent_2": 2.896262091131045,
-              "Percent_3": 9.668202564241593,
-              "Percent_4": 87.43553534462735
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 29348.08878596763,
-              "Area_km2_3": 86631.96022170044,
-              "Area_km2_4": 470533.63017238304,
-              "Percent_1": 0.0,
-              "Percent_2": 5.003820000753674,
-              "Percent_3": 14.770663208198714,
-              "Percent_4": 80.22551679104761
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 10452.948383940711,
-              "Area_km2_3": 155841.52524680283,
-              "Area_km2_4": 212083.8791401099,
-              "Area_km2_5": 172372.25812809754,
-              "Area_km2_6": 26038.154847205788,
-              "Percent_1": 0.0,
-              "Percent_2": 1.8122662930888336,
-              "Percent_3": 27.01882118754516,
-              "Percent_4": 36.76976594121936,
-              "Percent_5": 29.884815441075723,
-              "Percent_6": 4.514331137070917
-          },
-          "odsgeneral": {
-              "Area_km2_1": 24218.553518655433,
-              "Area_km2_2": 526061.9171048846,
-              "Area_km2_3": 22801.462472859865,
-              "Percent_1": 4.226019373495334,
-              "Percent_2": 91.7952367234013,
-              "Percent_3": 3.9787439031033554
-          },
-          "veg2000": {
-              "Area_km2_1": 269354.9105497058,
-              "Percent_1": 45.927659342408695
-          },
-          "veg2010": {
-              "Area_km2_1": 250738.24889266083,
-              "Percent_1": 42.753335574066405
-          },
-          "veg2020": {
-              "Area_km2_1": 235528.01462033676,
-              "Percent_1": 40.15984115158912
-          }
+        "NM_UF": "Minas Gerais",
+        "SIGLA_UF": "MG",
+        "densgeneral": {
+          "Area_general": "35.02 hab/Km²",
+          "Percent_1": 24.502,
+          "Percent_2": 28.488,
+          "Percent_3": 24.736,
+          "Percent_4": 22.274,
+          "Area_info_1": "209 municípios",
+          "Area_info_2": "243 municípios",
+          "Area_info_3": "211 município",
+          "Area_info_4": "190 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "64.5 Mil Km²",
+          "Area_info_2": "319.7 Mil Km²",
+          "Area_info_3": "198.4 Mil Km²",
+          "Area_info_4": "473 Km²",
+          "Percent_1": 11.060091036689352,
+          "Percent_2": 54.83049427074961,
+          "Percent_3": 34.02822980185085,
+          "Percent_4": 0.08118489071018717,
+          "Area_general": "583.1 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "6.1 Mil Km²",
+          "Area_info_3": "55.4 Mil Km²",
+          "Area_info_4": "525.0 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 1.0440733851031732,
+          "Percent_3": 9.439291705996295,
+          "Percent_4": 89.51663490890054,
+          "Area_general": "586.5 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "10.5 Mil Km²",
+          "Area_info_3": "53.6 Mil Km²",
+          "Area_info_4": "522.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 1.797556110557396,
+          "Percent_3": 9.140023770299575,
+          "Percent_4": 89.06242011914303,
+          "Area_general": "586.5 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "17.0 Mil Km²",
+          "Area_info_3": "56.7 Mil Km²",
+          "Area_info_4": "512.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 2.896262091131045,
+          "Percent_3": 9.668202564241593,
+          "Percent_4": 87.43553534462735,
+          "Area_general": "586.5 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "29.3 Mil Km²",
+          "Area_info_3": "86.6 Mil Km²",
+          "Area_info_4": "470.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 5.003820000753674,
+          "Percent_3": 14.770663208198714,
+          "Percent_4": 80.22551679104761,
+          "Area_general": "586.5 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "10.5 Mil Km²",
+          "Area_info_3": "155.8 Mil Km²",
+          "Area_info_4": "212.1 Mil Km²",
+          "Area_info_5": "172.4 Mil Km²",
+          "Area_info_6": "26.0 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 1.8122662930888336,
+          "Percent_3": 27.01882118754516,
+          "Percent_4": 36.76976594121936,
+          "Percent_5": 29.884815441075723,
+          "Percent_6": 4.514331137070917,
+          "Area_general": "576.8 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "24.2 Mil Km²",
+          "Area_info_2": "526.1 Mil Km²",
+          "Area_info_3": "22.8 Mil Km²",
+          "Percent_1": 4.226019373495334,
+          "Percent_2": 91.7952367234013,
+          "Percent_3": 3.9787439031033554,
+          "Area_general": "573.1 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "269.4 Mil Km²",
+          "Percent_1": 45.927659342408695,
+          "Area_general": "269.4 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "250.7 Mil Km²",
+          "Percent_1": 42.753335574066405,
+          "Area_general": "250.7 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "235.5 Mil Km²",
+          "Percent_1": 40.15984115158912,
+          "Area_general": "235.5 Mil Km²"
+        }
       }
     },
     {
@@ -38842,92 +39052,113 @@
       },
       "id": 50,
       "properties": {
-          "NM_UF": "Mato Grosso do Sul",
-          "SIGLA_UF": "MS",
-          "speigeneral": {
-              "Area_km2_1": 89408.98664872331,
-              "Area_km2_2": 175572.0433744573,
-              "Area_km2_3": 90350.81377135396,
-              "Area_km2_4": 233.40028656518555,
-              "Percent_1": 25.14559230325962,
-              "Percent_2": 49.37829169107755,
-              "Percent_3": 25.410473963744924,
-              "Percent_4": 0.06564204191789623
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 355625.8218760416,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 355625.82187604153,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 355625.8218760416,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 15424.027949090614,
-              "Area_km2_4": 340635.0431372667,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 4.331873332711617,
-              "Percent_4": 95.66812666728838
-          },
-          "deggeneral": {
-              "Area_km2_1": 1901.8380294430233,
-              "Area_km2_2": 86889.86982741236,
-              "Area_km2_3": 128836.21010387223,
-              "Area_km2_4": 109090.22818718877,
-              "Area_km2_5": 22643.785698421732,
-              "Area_km2_6": 832.9697332737268,
-              "Percent_1": 0.5430798737687125,
-              "Percent_2": 24.811860319919358,
-              "Percent_3": 36.78985888222108,
-              "Percent_4": 31.151289666159983,
-              "Percent_5": 6.466052360066694,
-              "Percent_6": 0.2378588978641549
-          },
-          "odsgeneral": {
-              "Area_km2_1": 13678.029388027446,
-              "Area_km2_2": 310787.91704004083,
-              "Area_km2_3": 21389.972511185515,
-              "Percent_1": 3.954834553642512,
-              "Percent_2": 89.86051705959895,
-              "Percent_3": 6.184648386758549
-          },
-          "veg2000": {
-              "Area_km2_1": 152816.51835110897,
-              "Percent_1": 42.803765595365604
-          },
-          "veg2010": {
-              "Area_km2_1": 144134.83323510317,
-              "Percent_1": 40.37203361581295
-          },
-          "veg2020": {
-              "Area_km2_1": 136810.77156866726,
-              "Percent_1": 38.32057071010902
-          }
+        "NM_UF": "Mato Grosso do Sul",
+        "SIGLA_UF": "MS",
+        "densgeneral": {
+          "Area_general": "7.72 hab/Km²",
+          "Percent_1": 77.215,
+          "Percent_2": 16.456,
+          "Percent_3": 1.266,
+          "Percent_4": 5.063,
+          "Area_info_1": "61 município",
+          "Area_info_2": "13 municípios",
+          "Area_info_3": "1 município",
+          "Area_info_4": "4 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "89.4 Mil Km²",
+          "Area_info_2": "175.6 Mil Km²",
+          "Area_info_3": "90.4 Mil Km²",
+          "Area_info_4": "233 Km²",
+          "Percent_1": 25.14559230325962,
+          "Percent_2": 49.37829169107755,
+          "Percent_3": 25.410473963744924,
+          "Percent_4": 0.06564204191789623,
+          "Area_general": "355.6 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "355.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "355.6 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "355.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "355.6 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "355.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "355.6 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "15.4 Mil Km²",
+          "Area_info_4": "340.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 4.331873332711617,
+          "Percent_4": 95.66812666728838,
+          "Area_general": "356.1 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "1.9 Mil Km²",
+          "Area_info_2": "86.9 Mil Km²",
+          "Area_info_3": "128.8 Mil Km²",
+          "Area_info_4": "109.1 Mil Km²",
+          "Area_info_5": "22.6 Mil Km²",
+          "Area_info_6": "833 Km²",
+          "Percent_1": 0.5430798737687125,
+          "Percent_2": 24.811860319919358,
+          "Percent_3": 36.78985888222108,
+          "Percent_4": 31.151289666159983,
+          "Percent_5": 6.466052360066694,
+          "Percent_6": 0.2378588978641549,
+          "Area_general": "350.2 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "13.7 Mil Km²",
+          "Area_info_2": "310.8 Mil Km²",
+          "Area_info_3": "21.4 Mil Km²",
+          "Percent_1": 3.954834553642512,
+          "Percent_2": 89.86051705959895,
+          "Percent_3": 6.184648386758549,
+          "Area_general": "345.9 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "152.8 Mil Km²",
+          "Percent_1": 42.803765595365604,
+          "Area_general": "152.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "144.1 Mil Km²",
+          "Percent_1": 40.37203361581295,
+          "Area_general": "144.1 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "136.8 Mil Km²",
+          "Percent_1": 38.32057071010902,
+          "Area_general": "136.8 Mil Km²"
+        }
       }
     },
     {
@@ -43011,92 +43242,113 @@
       },
       "id": 51,
       "properties": {
-          "NM_UF": "Mato Grosso",
-          "SIGLA_UF": "MT",
-          "speigeneral": {
-              "Area_km2_1": 395885.83230793744,
-              "Area_km2_2": 368107.5539514559,
-              "Area_km2_3": 109955.0267410559,
-              "Area_km2_4": 3508.8248148807274,
-              "Percent_1": 45.11739321834117,
-              "Percent_2": 41.951623177439444,
-              "Percent_3": 12.531098041292479,
-              "Percent_4": 0.3998855629269077
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 902389.2824202356,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 902389.2824202357,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 902389.2824202356,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 900526.3384753651,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 327.90830603287,
-              "Area_km2_2": 23968.813059921515,
-              "Area_km2_3": 119155.81549466307,
-              "Area_km2_4": 318103.38974934054,
-              "Area_km2_5": 162784.09525108154,
-              "Area_km2_6": 273913.85365204356,
-              "Percent_1": 0.0365050811326106,
-              "Percent_2": 2.6683784744296837,
-              "Percent_3": 13.265271516541045,
-              "Percent_4": 35.41352822637584,
-              "Percent_5": 18.122281427185516,
-              "Percent_6": 30.494035274335314
-          },
-          "odsgeneral": {
-              "Area_km2_1": 91632.38721561729,
-              "Area_km2_2": 764188.5629384081,
-              "Area_km2_3": 38985.447749952116,
-              "Percent_1": 10.240470724199097,
-              "Percent_2": 85.4026708714273,
-              "Percent_3": 4.3568584043736
-          },
-          "veg2000": {
-              "Area_km2_1": 756957.3680605472,
-              "Percent_1": 83.81699687185818
-          },
-          "veg2010": {
-              "Area_km2_1": 560988.0497607499,
-              "Percent_1": 62.11754531489747
-          },
-          "veg2020": {
-              "Area_km2_1": 534496.1326862291,
-              "Percent_1": 59.18412657263216
-          }
+        "NM_UF": "Mato Grosso",
+        "SIGLA_UF": "MT",
+        "densgeneral": {
+          "Area_general": "4.05 hab/Km²",
+          "Percent_1": 91.489,
+          "Percent_2": 4.255,
+          "Percent_3": 1.418,
+          "Percent_4": 2.837,
+          "Area_info_1": "129 municípios",
+          "Area_info_2": "6 municípios",
+          "Area_info_3": "2 municípios",
+          "Area_info_4": "4 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "395.9 Mil Km²",
+          "Area_info_2": "368.1 Mil Km²",
+          "Area_info_3": "110.0 Mil Km²",
+          "Area_info_4": "3.5 Mil Km²",
+          "Percent_1": 45.11739321834117,
+          "Percent_2": 41.951623177439444,
+          "Percent_3": 12.531098041292479,
+          "Percent_4": 0.3998855629269077,
+          "Area_general": "877.5 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "902.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "902.4 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "902.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "902.4 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "902.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "902.4 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "900.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "900.5 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "328 Km²",
+          "Area_info_2": "24.0 Mil Km²",
+          "Area_info_3": "119.2 Mil Km²",
+          "Area_info_4": "318.1 Mil Km²",
+          "Area_info_5": "162.8 Mil Km²",
+          "Area_info_6": "273.9 Mil Km²",
+          "Percent_1": 0.0365050811326106,
+          "Percent_2": 2.6683784744296837,
+          "Percent_3": 13.265271516541045,
+          "Percent_4": 35.41352822637584,
+          "Percent_5": 18.122281427185516,
+          "Percent_6": 30.494035274335314,
+          "Area_general": "898.3 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "91.6 Mil Km²",
+          "Area_info_2": "764.2 Mil Km²",
+          "Area_info_3": "39.0 Mil Km²",
+          "Percent_1": 10.240470724199097,
+          "Percent_2": 85.4026708714273,
+          "Percent_3": 4.3568584043736,
+          "Area_general": "894.8 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "757.0 Mil Km²",
+          "Percent_1": 83.81699687185818,
+          "Area_general": "757.0 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "561.0 Mil Km²",
+          "Percent_1": 62.11754531489747,
+          "Area_general": "561.0 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "534.5 Mil Km²",
+          "Percent_1": 59.18412657263216,
+          "Area_general": "534.5 Mil Km²"
+        }
       }
     },
     {
@@ -47875,9 +48127,9 @@
               [-51.092862, -0.087784],
               [-51.084457, -0.087216],
               [-51.065214, -0.075901],
-              [-51.007015, -0.000023],
-              [-51.00221, -0.000023],
-              [-51.000011, -0.000023],
+              [-51.007015, -2.3e-5],
+              [-51.00221, -2.3e-5],
+              [-51.000011, -2.3e-5],
               [-50.996451, 0.003774],
               [-50.98299, 0.029679],
               [-50.980109, 0.035221],
@@ -48035,7 +48287,7 @@
               [-49.391589, 0.015167],
               [-49.3797, 0.012979],
               [-49.378355, 0.012731],
-              [-49.367134, -0.000035],
+              [-49.367134, -3.5e-5],
               [-49.007648, -0.160392],
               [-48.999603, -0.181601],
               [-48.994206, -0.184509],
@@ -48864,92 +49116,113 @@
       },
       "id": 15,
       "properties": {
-          "NM_UF": "Pará",
-          "SIGLA_UF": "PA",
-          "speigeneral": {
-              "Area_km2_1": 225166.76562911365,
-              "Area_km2_2": 710096.6223080858,
-              "Area_km2_3": 302936.65126013395,
-              "Area_km2_4": 5242.345164721758,
-              "Percent_1": 18.10833927336608,
-              "Percent_2": 57.107320068746006,
-              "Percent_3": 24.362741295452526,
-              "Percent_4": 0.4215993624353837
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1243565.313046955,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1243565.3130469543,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1243565.3130469543,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 1243376.3489656933,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 4.1459322265625005,
-              "Area_km2_2": 1715.8714310358039,
-              "Area_km2_3": 4840.013664760002,
-              "Area_km2_4": 225800.9951732843,
-              "Area_km2_5": 128553.13494341595,
-              "Area_km2_6": 841195.9438804452,
-              "Percent_1": 0.0003448878941480738,
-              "Percent_2": 0.14273829193041182,
-              "Percent_3": 0.4026264852551647,
-              "Percent_4": 18.783719912957295,
-              "Percent_5": 10.69395676868755,
-              "Percent_6": 69.97661365327544
-          },
-          "odsgeneral": {
-              "Area_km2_1": 113722.26505175556,
-              "Area_km2_2": 1030803.8062846636,
-              "Area_km2_3": 43784.17966722624,
-              "Percent_1": 9.570081967710527,
-              "Percent_2": 86.7453432648627,
-              "Percent_3": 3.6845747674267875
-          },
-          "veg2000": {
-              "Area_km2_1": 1200859.4987176787,
-              "Percent_1": 96.43741091992736
-          },
-          "veg2010": {
-              "Area_km2_1": 951925.0587516741,
-              "Percent_1": 76.44623551201435
-          },
-          "veg2020": {
-              "Area_km2_1": 923183.9330793944,
-              "Percent_1": 74.13812224004651
-          }
+        "NM_UF": "Pará",
+        "SIGLA_UF": "PA",
+        "densgeneral": {
+          "Area_general": "6.52 hab/Km²",
+          "Percent_1": 53.472,
+          "Percent_2": 16.667,
+          "Percent_3": 16.667,
+          "Percent_4": 13.194,
+          "Area_info_1": "77 municípios",
+          "Area_info_2": "24 municípios",
+          "Area_info_3": "24 municípios",
+          "Area_info_4": "19 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "225.2 Mil Km²",
+          "Area_info_2": "710.1 Mil Km²",
+          "Area_info_3": "302.9 Mil Km²",
+          "Area_info_4": "5.2 Mil Km²",
+          "Percent_1": 18.10833927336608,
+          "Percent_2": 57.107320068746006,
+          "Percent_3": 24.362741295452526,
+          "Percent_4": 0.4215993624353837,
+          "Area_general": "1243.4 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1243.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1243.6 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1243.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1243.6 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1243.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1243.6 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "1243.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "1243.4 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "4 Km²",
+          "Area_info_2": "1.7 Mil Km²",
+          "Area_info_3": "4.8 Mil Km²",
+          "Area_info_4": "225.8 Mil Km²",
+          "Area_info_5": "128.6 Mil Km²",
+          "Area_info_6": "841.2 Mil Km²",
+          "Percent_1": 0.0003448878941480738,
+          "Percent_2": 0.14273829193041182,
+          "Percent_3": 0.4026264852551647,
+          "Percent_4": 18.783719912957295,
+          "Percent_5": 10.69395676868755,
+          "Percent_6": 69.97661365327544,
+          "Area_general": "1202.1 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "113.7 Mil Km²",
+          "Area_info_2": "1030.8 Mil Km²",
+          "Area_info_3": "43.8 Mil Km²",
+          "Percent_1": 9.570081967710527,
+          "Percent_2": 86.7453432648627,
+          "Percent_3": 3.6845747674267875,
+          "Area_general": "1188.3 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "1200.9 Mil Km²",
+          "Percent_1": 96.43741091992736,
+          "Area_general": "1200.9 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "951.9 Mil Km²",
+          "Percent_1": 76.44623551201435,
+          "Area_general": "951.9 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "923.2 Mil Km²",
+          "Percent_1": 74.13812224004651,
+          "Area_general": "923.2 Mil Km²"
+        }
       }
     },
     {
@@ -50764,92 +51037,113 @@
       },
       "id": 25,
       "properties": {
-          "NM_UF": "Paraíba",
-          "SIGLA_UF": "PB",
-          "speigeneral": {
-              "Area_km2_1": 912.0844259933967,
-              "Area_km2_2": 15945.996427190335,
-              "Area_km2_3": 36587.92063645589,
-              "Area_km2_4": 2858.8100428166144,
-              "Percent_1": 1.6199049444782114,
-              "Percent_2": 28.32084149326822,
-              "Percent_3": 64.98187213603444,
-              "Percent_4": 5.07738142621912
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 34174.85503691715,
-              "Area_km2_3": 14991.403792264085,
-              "Area_km2_4": 7138.566497468839,
-              "Percent_1": 0.0,
-              "Percent_2": 60.6961389874725,
-              "Percent_3": 26.625433442501752,
-              "Percent_4": 12.678427570025741
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 40819.52475863693,
-              "Area_km2_3": 10247.347669555453,
-              "Area_km2_4": 5237.952898457699,
-              "Percent_1": 0.0,
-              "Percent_2": 72.49738281190675,
-              "Percent_3": 18.199768155048694,
-              "Percent_4": 9.302849033044568
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 46199.85292025338,
-              "Area_km2_3": 5924.287453913027,
-              "Area_km2_4": 4180.684952483663,
-              "Percent_1": 0.0,
-              "Percent_2": 82.05309696322985,
-              "Percent_3": 10.521811264920053,
-              "Percent_4": 7.425091771850095
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 47363.22963014643,
-              "Area_km2_3": 4757.673562970033,
-              "Area_km2_4": 3280.9670131321627,
-              "Percent_1": 0.0,
-              "Percent_2": 85.49030827627992,
-              "Percent_3": 8.58756851575279,
-              "Percent_4": 5.922123207967285
-          },
-          "deggeneral": {
-              "Area_km2_1": 280.1957692286152,
-              "Area_km2_2": 18069.95254294529,
-              "Area_km2_3": 7628.544340322558,
-              "Area_km2_4": 28154.10354806634,
-              "Area_km2_5": 1703.033151815103,
-              "Area_km2_6": 135.27740657151503,
-              "Percent_1": 0.5006078769093013,
-              "Percent_2": 32.28442957322087,
-              "Percent_3": 13.629432723523555,
-              "Percent_4": 50.30113781619063,
-              "Percent_5": 3.042700511800758,
-              "Percent_6": 0.24169149835488116
-          },
-          "odsgeneral": {
-              "Area_km2_1": 3768.8318539234474,
-              "Area_km2_2": 51354.62550667349,
-              "Area_km2_3": 243.2742902242561,
-              "Percent_1": 6.807033287953794,
-              "Percent_2": 92.7535795873763,
-              "Percent_3": 0.43938712466992424
-          },
-          "veg2000": {
-              "Area_km2_1": 33760.469913949426,
-              "Percent_1": 59.80203673251647
-          },
-          "veg2010": {
-              "Area_km2_1": 30219.276384164456,
-              "Percent_1": 53.529298643120114
-          },
-          "veg2020": {
-              "Area_km2_1": 28252.030049887995,
-              "Percent_1": 50.04459188861787
-          }
+        "NM_UF": "Paraíba",
+        "SIGLA_UF": "PB",
+        "densgeneral": {
+          "Area_general": "70.39 hab/Km²",
+          "Percent_1": 10.314,
+          "Percent_2": 17.937,
+          "Percent_3": 28.7,
+          "Percent_4": 43.049,
+          "Area_info_1": "23 municípios",
+          "Area_info_2": "40 municípios",
+          "Area_info_3": "64 municípios",
+          "Area_info_4": "96 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "912 Km²",
+          "Area_info_2": "15.9 Mil Km²",
+          "Area_info_3": "36.6 Mil Km²",
+          "Area_info_4": "2.9 Mil Km²",
+          "Percent_1": 1.6199049444782114,
+          "Percent_2": 28.32084149326822,
+          "Percent_3": 64.98187213603444,
+          "Percent_4": 5.07738142621912,
+          "Area_general": "56.3 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "34.2 Mil Km²",
+          "Area_info_3": "15.0 Mil Km²",
+          "Area_info_4": "7.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 60.6961389874725,
+          "Percent_3": 26.625433442501752,
+          "Percent_4": 12.678427570025741,
+          "Area_general": "56.3 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "40.8 Mil Km²",
+          "Area_info_3": "10.2 Mil Km²",
+          "Area_info_4": "5.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 72.49738281190675,
+          "Percent_3": 18.199768155048694,
+          "Percent_4": 9.302849033044568,
+          "Area_general": "56.3 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "46.2 Mil Km²",
+          "Area_info_3": "5.9 Mil Km²",
+          "Area_info_4": "4.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 82.05309696322985,
+          "Percent_3": 10.521811264920053,
+          "Percent_4": 7.425091771850095,
+          "Area_general": "56.3 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "47.4 Mil Km²",
+          "Area_info_3": "4.8 Mil Km²",
+          "Area_info_4": "3.3 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 85.49030827627992,
+          "Percent_3": 8.58756851575279,
+          "Percent_4": 5.922123207967285,
+          "Area_general": "55.4 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "280 Km²",
+          "Area_info_2": "18.1 Mil Km²",
+          "Area_info_3": "7.6 Mil Km²",
+          "Area_info_4": "28.2 Mil Km²",
+          "Area_info_5": "1.7 Mil Km²",
+          "Area_info_6": "135 Km²",
+          "Percent_1": 0.5006078769093013,
+          "Percent_2": 32.28442957322087,
+          "Percent_3": 13.629432723523555,
+          "Percent_4": 50.30113781619063,
+          "Percent_5": 3.042700511800758,
+          "Percent_6": 0.24169149835488116,
+          "Area_general": "56.0 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "3.8 Mil Km²",
+          "Area_info_2": "51.4 Mil Km²",
+          "Area_info_3": "243 Km²",
+          "Percent_1": 6.807033287953794,
+          "Percent_2": 92.7535795873763,
+          "Percent_3": 0.43938712466992424,
+          "Area_general": "55.4 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "33.8 Mil Km²",
+          "Percent_1": 59.80203673251647,
+          "Area_general": "33.8 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "30.2 Mil Km²",
+          "Percent_1": 53.529298643120114,
+          "Area_general": "30.2 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "28.3 Mil Km²",
+          "Percent_1": 50.04459188861787,
+          "Area_general": "28.3 Mil Km²"
+        }
       }
     },
     {
@@ -53141,92 +53435,113 @@
       },
       "id": 26,
       "properties": {
-          "NM_UF": "Pernambuco",
-          "SIGLA_UF": "PE",
-          "speigeneral": {
-              "Area_km2_1": 574.3786247234538,
-              "Area_km2_2": 7386.746345581073,
-              "Area_km2_3": 75333.61677646187,
-              "Area_km2_4": 14579.413677535496,
-              "Percent_1": 0.5868542336160348,
-              "Percent_2": 7.547187828654267,
-              "Percent_3": 76.96987672575791,
-              "Percent_4": 14.896081211971781
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 76645.18545269457,
-              "Area_km2_3": 6743.54193308244,
-              "Area_km2_4": 14485.44144252592,
-              "Percent_1": 0.0,
-              "Percent_2": 78.30992218912266,
-              "Percent_3": 6.8900119549545185,
-              "Percent_4": 14.800065855922822
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 79012.30825415139,
-              "Area_km2_3": 6030.301075860489,
-              "Area_km2_4": 12831.559498291092,
-              "Percent_1": 0.0,
-              "Percent_2": 80.72845900000414,
-              "Percent_3": 6.161279475526605,
-              "Percent_4": 13.110261524469264
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 78800.37110144139,
-              "Area_km2_3": 5865.638778512957,
-              "Area_km2_4": 13208.158948348573,
-              "Percent_1": 0.0,
-              "Percent_2": 80.51191856318903,
-              "Percent_3": 5.993040705973026,
-              "Percent_4": 13.495040730837943
-          },
-          "ia2020": {
-              "Area_km2_1": 282.6933993204255,
-              "Area_km2_2": 79154.15406882098,
-              "Area_km2_3": 6217.014078774176,
-              "Area_km2_4": 10971.789794832912,
-              "Percent_1": 0.29256558211502975,
-              "Percent_2": 81.91836533020223,
-              "Percent_3": 6.434123850597037,
-              "Percent_4": 11.354945237085708
-          },
-          "deggeneral": {
-              "Area_km2_1": 822.7074579994296,
-              "Area_km2_2": 25463.629843814997,
-              "Area_km2_3": 14644.573399548643,
-              "Area_km2_4": 49546.23553983193,
-              "Area_km2_5": 5011.916652900189,
-              "Area_km2_6": 812.3345121851178,
-              "Percent_1": 0.8543047973941204,
-              "Percent_2": 26.441599529846886,
-              "Percent_3": 15.207020660110999,
-              "Percent_4": 51.44913456531085,
-              "Percent_5": 5.204406984621114,
-              "Percent_6": 0.8435334627160264
-          },
-          "odsgeneral": {
-              "Area_km2_1": 8175.764617744051,
-              "Area_km2_2": 86196.54697613364,
-              "Area_km2_3": 404.97231267257393,
-              "Percent_1": 8.626291322934826,
-              "Percent_2": 90.94642030586446,
-              "Percent_3": 0.42728837120071284
-          },
-          "veg2000": {
-              "Area_km2_1": 53509.6799973266,
-              "Percent_1": 54.57966105184059
-          },
-          "veg2010": {
-              "Area_km2_1": 48208.40302499556,
-              "Percent_1": 49.172379597228804
-          },
-          "veg2020": {
-              "Area_km2_1": 44702.529347188116,
-              "Percent_1": 45.59640237152197
-          }
+        "NM_UF": "Pernambuco",
+        "SIGLA_UF": "PE",
+        "densgeneral": {
+          "Area_general": "92.37 hab/Km²",
+          "Percent_1": 4.324,
+          "Percent_2": 10.811,
+          "Percent_3": 15.135,
+          "Percent_4": 69.73,
+          "Area_info_1": "8 municípios",
+          "Area_info_2": "20 municípios",
+          "Area_info_3": "28 municípios",
+          "Area_info_4": "129 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "574 Km²",
+          "Area_info_2": "7.4 Mil Km²",
+          "Area_info_3": "75.3 Mil Km²",
+          "Area_info_4": "14.6 Mil Km²",
+          "Percent_1": 0.5868542336160348,
+          "Percent_2": 7.547187828654267,
+          "Percent_3": 76.96987672575791,
+          "Percent_4": 14.896081211971781,
+          "Area_general": "97.9 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "76.6 Mil Km²",
+          "Area_info_3": "6.7 Mil Km²",
+          "Area_info_4": "14.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 78.30992218912266,
+          "Percent_3": 6.8900119549545185,
+          "Percent_4": 14.800065855922822,
+          "Area_general": "97.9 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "79.0 Mil Km²",
+          "Area_info_3": "6.0 Mil Km²",
+          "Area_info_4": "12.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 80.72845900000414,
+          "Percent_3": 6.161279475526605,
+          "Percent_4": 13.110261524469264,
+          "Area_general": "97.9 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "78.8 Mil Km²",
+          "Area_info_3": "5.9 Mil Km²",
+          "Area_info_4": "13.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 80.51191856318903,
+          "Percent_3": 5.993040705973026,
+          "Percent_4": 13.495040730837943,
+          "Area_general": "97.9 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "283 Km²",
+          "Area_info_2": "79.2 Mil Km²",
+          "Area_info_3": "6.2 Mil Km²",
+          "Area_info_4": "11.0 Mil Km²",
+          "Percent_1": 0.29256558211502975,
+          "Percent_2": 81.91836533020223,
+          "Percent_3": 6.434123850597037,
+          "Percent_4": 11.354945237085708,
+          "Area_general": "96.6 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "823 Km²",
+          "Area_info_2": "25.5 Mil Km²",
+          "Area_info_3": "14.6 Mil Km²",
+          "Area_info_4": "49.5 Mil Km²",
+          "Area_info_5": "5.0 Mil Km²",
+          "Area_info_6": "812 Km²",
+          "Percent_1": 0.8543047973941204,
+          "Percent_2": 26.441599529846886,
+          "Percent_3": 15.207020660110999,
+          "Percent_4": 51.44913456531085,
+          "Percent_5": 5.204406984621114,
+          "Percent_6": 0.8435334627160264,
+          "Area_general": "96.3 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "8.2 Mil Km²",
+          "Area_info_2": "86.2 Mil Km²",
+          "Area_info_3": "405 Km²",
+          "Percent_1": 8.626291322934826,
+          "Percent_2": 90.94642030586446,
+          "Percent_3": 0.42728837120071284,
+          "Area_general": "94.8 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "53.5 Mil Km²",
+          "Percent_1": 54.57966105184059,
+          "Area_general": "53.5 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "48.2 Mil Km²",
+          "Percent_1": 49.172379597228804,
+          "Area_general": "48.2 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "44.7 Mil Km²",
+          "Percent_1": 45.59640237152197,
+          "Area_general": "44.7 Mil Km²"
+        }
       }
     },
     {
@@ -55766,92 +56081,113 @@
       },
       "id": 22,
       "properties": {
-          "NM_UF": "Piauí",
-          "SIGLA_UF": "PI",
-          "speigeneral": {
-              "Area_km2_1": 6946.26013392822,
-              "Area_km2_2": 140405.54123369197,
-              "Area_km2_3": 104105.3503131427,
-              "Area_km2_4": 242.16306980460416,
-              "Percent_1": 2.759745349649411,
-              "Percent_2": 55.78304469077837,
-              "Percent_3": 41.36099870447024,
-              "Percent_4": 0.09621125510198004
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 73874.7344403568,
-              "Area_km2_3": 71749.3757183421,
-              "Area_km2_4": 106075.20836124662,
-              "Percent_1": 0.0,
-              "Percent_2": 29.350391123328652,
-              "Percent_3": 28.505987278887456,
-              "Percent_4": 42.143621597783884
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 83732.03401981284,
-              "Area_km2_3": 88641.04042712502,
-              "Area_km2_4": 79326.24407300768,
-              "Percent_1": 0.0,
-              "Percent_2": 33.26669079287857,
-              "Percent_3": 35.21703632268706,
-              "Percent_4": 31.516272884434365
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 102137.45306621613,
-              "Area_km2_3": 83037.41008281177,
-              "Area_km2_4": 66524.45537091761,
-              "Percent_1": 0.0,
-              "Percent_2": 40.579153597558275,
-              "Percent_3": 32.99071708699585,
-              "Percent_4": 26.43012931544588
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 127923.03192927947,
-              "Area_km2_3": 75596.83760241405,
-              "Area_km2_4": 47653.96902801188,
-              "Percent_1": 0.0,
-              "Percent_2": 50.93007801402511,
-              "Percent_3": 30.097417006446815,
-              "Percent_4": 18.97250497952806
-          },
-          "deggeneral": {
-              "Area_km2_1": 173.92943448790018,
-              "Area_km2_2": 19189.67587592429,
-              "Area_km2_3": 17896.724382049644,
-              "Area_km2_4": 178101.34221229193,
-              "Area_km2_5": 35251.347344155685,
-              "Area_km2_6": 470.5185110024051,
-              "Percent_1": 0.0692715404759881,
-              "Percent_2": 7.642745536855395,
-              "Percent_3": 7.127796804887559,
-              "Percent_4": 70.9331021066757,
-              "Percent_5": 14.039688805828169,
-              "Percent_6": 0.187395205277185
-          },
-          "odsgeneral": {
-              "Area_km2_1": 17297.850421664498,
-              "Area_km2_2": 232757.0085076752,
-              "Area_km2_3": 981.6680914964612,
-              "Percent_1": 6.890571116062631,
-              "Percent_2": 92.71838296598018,
-              "Percent_3": 0.3910459179571833
-          },
-          "veg2000": {
-              "Area_km2_1": 219292.73535649173,
-              "Percent_1": 87.11526708711908
-          },
-          "veg2010": {
-              "Area_km2_1": 209468.62722339982,
-              "Percent_1": 83.21258511949364
-          },
-          "veg2020": {
-              "Area_km2_1": 197656.8300619333,
-              "Percent_1": 78.52028255494554
-          }
+        "NM_UF": "Piauí",
+        "SIGLA_UF": "PI",
+        "densgeneral": {
+          "Area_general": "12.99 hab/Km²",
+          "Percent_1": 57.143,
+          "Percent_2": 25.893,
+          "Percent_3": 12.946,
+          "Percent_4": 4.018,
+          "Area_info_1": "128 municípios",
+          "Area_info_2": "58 municípios",
+          "Area_info_3": "29 municípios",
+          "Area_info_4": "9 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "6.9 Mil Km²",
+          "Area_info_2": "140.4 Mil Km²",
+          "Area_info_3": "104.1 Mil Km²",
+          "Area_info_4": "242 Km²",
+          "Percent_1": 2.759745349649411,
+          "Percent_2": 55.78304469077837,
+          "Percent_3": 41.36099870447024,
+          "Percent_4": 0.09621125510198004,
+          "Area_general": "251.7 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "73.9 Mil Km²",
+          "Area_info_3": "71.7 Mil Km²",
+          "Area_info_4": "106.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 29.350391123328652,
+          "Percent_3": 28.505987278887456,
+          "Percent_4": 42.143621597783884,
+          "Area_general": "251.7 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "83.7 Mil Km²",
+          "Area_info_3": "88.6 Mil Km²",
+          "Area_info_4": "79.3 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 33.26669079287857,
+          "Percent_3": 35.21703632268706,
+          "Percent_4": 31.516272884434365,
+          "Area_general": "251.7 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "102.1 Mil Km²",
+          "Area_info_3": "83.0 Mil Km²",
+          "Area_info_4": "66.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 40.579153597558275,
+          "Percent_3": 32.99071708699585,
+          "Percent_4": 26.43012931544588,
+          "Area_general": "251.7 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "127.9 Mil Km²",
+          "Area_info_3": "75.6 Mil Km²",
+          "Area_info_4": "47.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 50.93007801402511,
+          "Percent_3": 30.097417006446815,
+          "Percent_4": 18.97250497952806,
+          "Area_general": "251.2 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "174 Km²",
+          "Area_info_2": "19.2 Mil Km²",
+          "Area_info_3": "17.9 Mil Km²",
+          "Area_info_4": "178.1 Mil Km²",
+          "Area_info_5": "35.3 Mil Km²",
+          "Area_info_6": "471 Km²",
+          "Percent_1": 0.0692715404759881,
+          "Percent_2": 7.642745536855395,
+          "Percent_3": 7.127796804887559,
+          "Percent_4": 70.9331021066757,
+          "Percent_5": 14.039688805828169,
+          "Percent_6": 0.187395205277185,
+          "Area_general": "251.1 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "17.3 Mil Km²",
+          "Area_info_2": "232.8 Mil Km²",
+          "Area_info_3": "982 Km²",
+          "Percent_1": 6.890571116062631,
+          "Percent_2": 92.71838296598018,
+          "Percent_3": 0.3910459179571833,
+          "Area_general": "251.0 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "219.3 Mil Km²",
+          "Percent_1": 87.11526708711908,
+          "Area_general": "219.3 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "209.5 Mil Km²",
+          "Percent_1": 83.21258511949364,
+          "Area_general": "209.5 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "197.7 Mil Km²",
+          "Percent_1": 78.52028255494554,
+          "Area_general": "197.7 Mil Km²"
+        }
       }
     },
     {
@@ -58718,92 +59054,113 @@
       },
       "id": 41,
       "properties": {
-          "NM_UF": "Paraná",
-          "SIGLA_UF": "PR",
-          "speigeneral": {
-              "Area_km2_1": 145081.63268357504,
-              "Area_km2_2": 52458.48630901216,
-              "Area_km2_3": 448.3070222071298,
-              "Area_km2_4": 0.0,
-              "Percent_1": 73.27783527746924,
-              "Percent_2": 26.495733798647546,
-              "Percent_3": 0.22643092388321268,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 198660.44894111957,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 198660.4489411196,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 198660.44894111957,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 196231.00962681402,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 12317.95234755346,
-              "Area_km2_3": 45984.36984569546,
-              "Area_km2_4": 85341.50458565592,
-              "Area_km2_5": 11089.925903930494,
-              "Area_km2_6": 38012.596867555614,
-              "Percent_1": 0.0,
-              "Percent_2": 6.390757789336549,
-              "Percent_3": 23.857453047988056,
-              "Percent_4": 44.27658670824503,
-              "Percent_5": 5.753637321692145,
-              "Percent_6": 19.72156513273821
-          },
-          "odsgeneral": {
-              "Area_km2_1": 8441.076530269394,
-              "Area_km2_2": 178437.06463218378,
-              "Area_km2_3": 4314.205934254975,
-              "Percent_1": 4.414965692115157,
-              "Percent_2": 93.32856013422307,
-              "Percent_3": 2.2564741736617626
-          },
-          "veg2000": {
-              "Area_km2_1": 52634.53538573649,
-              "Percent_1": 26.416278086959448
-          },
-          "veg2010": {
-              "Area_km2_1": 50066.805398244105,
-              "Percent_1": 25.127582957331583
-          },
-          "veg2020": {
-              "Area_km2_1": 48601.56960858673,
-              "Percent_1": 24.39220881944106
-          }
+        "NM_UF": "Paraná",
+        "SIGLA_UF": "PR",
+        "densgeneral": {
+          "Area_general": "57.42 hab/Km²",
+          "Percent_1": 12.782,
+          "Percent_2": 32.08,
+          "Percent_3": 32.08,
+          "Percent_4": 23.058,
+          "Area_info_1": "51 município",
+          "Area_info_2": "128 municípios",
+          "Area_info_3": "128 municípios",
+          "Area_info_4": "92 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "145.1 Mil Km²",
+          "Area_info_2": "52.5 Mil Km²",
+          "Area_info_3": "448 Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 73.27783527746924,
+          "Percent_2": 26.495733798647546,
+          "Percent_3": 0.22643092388321268,
+          "Percent_4": 0.0,
+          "Area_general": "198.0 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "198.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "198.7 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "198.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "198.7 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "198.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "198.7 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "196.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "196.2 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "12.3 Mil Km²",
+          "Area_info_3": "46.0 Mil Km²",
+          "Area_info_4": "85.3 Mil Km²",
+          "Area_info_5": "11.1 Mil Km²",
+          "Area_info_6": "38.0 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 6.390757789336549,
+          "Percent_3": 23.857453047988056,
+          "Percent_4": 44.27658670824503,
+          "Percent_5": 5.753637321692145,
+          "Percent_6": 19.72156513273821,
+          "Area_general": "192.7 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "8.4 Mil Km²",
+          "Area_info_2": "178.4 Mil Km²",
+          "Area_info_3": "4.3 Mil Km²",
+          "Percent_1": 4.414965692115157,
+          "Percent_2": 93.32856013422307,
+          "Percent_3": 2.2564741736617626,
+          "Area_general": "191.2 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "52.6 Mil Km²",
+          "Percent_1": 26.416278086959448,
+          "Area_general": "52.6 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "50.1 Mil Km²",
+          "Percent_1": 25.127582957331583,
+          "Area_general": "50.1 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "48.6 Mil Km²",
+          "Percent_1": 24.39220881944106,
+          "Area_general": "48.6 Mil Km²"
+        }
       }
     },
     {
@@ -62225,92 +62582,113 @@
       },
       "id": 33,
       "properties": {
-          "NM_UF": "Rio de Janeiro",
-          "SIGLA_UF": "RJ",
-          "speigeneral": {
-              "Area_km2_1": 5132.275258257701,
-              "Area_km2_2": 21970.153227756473,
-              "Area_km2_3": 14721.735995238287,
-              "Area_km2_4": 342.064812404541,
-              "Percent_1": 12.171530023505662,
-              "Percent_2": 52.10367062881149,
-              "Percent_3": 34.91357003423793,
-              "Percent_4": 0.8112293134449118
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 42166.2463580954,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 42166.246358095406,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 42166.246358095406,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 1783.166670318626,
-              "Area_km2_4": 40239.582750444206,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 4.243336513906415,
-              "Percent_4": 95.75666348609359
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.22916173339843748,
-              "Area_km2_2": 75.82609613815772,
-              "Area_km2_3": 2532.8136253046637,
-              "Area_km2_4": 23283.137198939785,
-              "Area_km2_5": 3625.876549950246,
-              "Area_km2_6": 10345.071488638438,
-              "Percent_1": 0.0005748739360975048,
-              "Percent_2": 0.19021695158004837,
-              "Percent_3": 6.353803126670757,
-              "Percent_4": 58.40795724380749,
-              "Percent_5": 9.09585511141779,
-              "Percent_6": 25.951592692587834
-          },
-          "odsgeneral": {
-              "Area_km2_1": 1311.1810942951154,
-              "Area_km2_2": 36809.74081679799,
-              "Area_km2_3": 185.0325930416121,
-              "Percent_1": 3.4229171711504733,
-              "Percent_2": 96.09404410696716,
-              "Percent_3": 0.48303872188236385
-          },
-          "veg2000": {
-              "Area_km2_1": 14956.231348397441,
-              "Percent_1": 34.25666201039653
-          },
-          "veg2010": {
-              "Area_km2_1": 14724.120270780602,
-              "Percent_1": 33.725020679798845
-          },
-          "veg2020": {
-              "Area_km2_1": 14553.737603062693,
-              "Percent_1": 33.33476585393541
-          }
+        "NM_UF": "Rio de Janeiro",
+        "SIGLA_UF": "RJ",
+        "densgeneral": {
+          "Area_general": "366.97 hab/Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 6.522,
+          "Percent_3": 14.13,
+          "Percent_4": 79.348,
+          "Area_info_1": "0 municípios",
+          "Area_info_2": "6 municípios",
+          "Area_info_3": "13 municípios",
+          "Area_info_4": "73 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "5.1 Mil Km²",
+          "Area_info_2": "22.0 Mil Km²",
+          "Area_info_3": "14.7 Mil Km²",
+          "Area_info_4": "342 Km²",
+          "Percent_1": 12.171530023505662,
+          "Percent_2": 52.10367062881149,
+          "Percent_3": 34.91357003423793,
+          "Percent_4": 0.8112293134449118,
+          "Area_general": "42.2 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "42.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "42.2 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "42.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "42.2 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "42.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "42.2 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "1.8 Mil Km²",
+          "Area_info_4": "40.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 4.243336513906415,
+          "Percent_4": 95.75666348609359,
+          "Area_general": "42.0 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "76 Km²",
+          "Area_info_3": "2.5 Mil Km²",
+          "Area_info_4": "23.3 Mil Km²",
+          "Area_info_5": "3.6 Mil Km²",
+          "Area_info_6": "10.3 Mil Km²",
+          "Percent_1": 0.0005748739360975048,
+          "Percent_2": 0.19021695158004837,
+          "Percent_3": 6.353803126670757,
+          "Percent_4": 58.40795724380749,
+          "Percent_5": 9.09585511141779,
+          "Percent_6": 25.951592692587834,
+          "Area_general": "39.9 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "1.3 Mil Km²",
+          "Area_info_2": "36.8 Mil Km²",
+          "Area_info_3": "185 Km²",
+          "Percent_1": 3.4229171711504733,
+          "Percent_2": 96.09404410696716,
+          "Percent_3": 0.48303872188236385,
+          "Area_general": "38.3 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "15.0 Mil Km²",
+          "Percent_1": 34.25666201039653,
+          "Area_general": "15.0 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "14.7 Mil Km²",
+          "Percent_1": 33.725020679798845,
+          "Area_general": "14.7 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "14.6 Mil Km²",
+          "Percent_1": 33.33476585393541,
+          "Area_general": "14.6 Mil Km²"
+        }
       }
     },
     {
@@ -63556,92 +63934,113 @@
       },
       "id": 24,
       "properties": {
-          "NM_UF": "Rio Grande do Norte",
-          "SIGLA_UF": "RN",
-          "speigeneral": {
-              "Area_km2_1": 8270.656556679667,
-              "Area_km2_2": 32737.63874746195,
-              "Area_km2_3": 11222.033048548663,
-              "Area_km2_4": 37.861846402775534,
-              "Percent_1": 15.823499006137729,
-              "Percent_2": 62.63396268889755,
-              "Percent_3": 21.470100659317232,
-              "Percent_4": 0.07243764564749078
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 44544.987319661064,
-              "Area_km2_3": 4716.118351775672,
-              "Area_km2_4": 3007.1133623716364,
-              "Percent_1": 0.0,
-              "Percent_2": 85.22384757523164,
-              "Percent_3": 9.02291763322789,
-              "Percent_4": 5.753234791540461
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 45144.087528819655,
-              "Area_km2_3": 3761.065993896122,
-              "Area_km2_4": 3363.065511092594,
-              "Percent_1": 0.0,
-              "Percent_2": 86.37005117702469,
-              "Percent_3": 7.195703361278431,
-              "Percent_4": 6.434245461696868
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 44530.30652428792,
-              "Area_km2_3": 4541.783793313347,
-              "Area_km2_4": 3196.128716207107,
-              "Percent_1": 0.0,
-              "Percent_2": 85.19576015299968,
-              "Percent_3": 8.689379277253753,
-              "Percent_4": 6.114860569746545
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 44563.12311027547,
-              "Area_km2_3": 3996.250100851225,
-              "Area_km2_4": 2022.5184579470615,
-              "Percent_1": 0.0,
-              "Percent_2": 88.10094213523016,
-              "Percent_3": 7.900554860613427,
-              "Percent_4": 3.998503004156423
-          },
-          "deggeneral": {
-              "Area_km2_1": 1269.6536325466693,
-              "Area_km2_2": 14474.44999121433,
-              "Area_km2_3": 5715.716782560018,
-              "Area_km2_4": 29430.319496680466,
-              "Area_km2_5": 612.5311241881092,
-              "Area_km2_6": 110.81617747053367,
-              "Percent_1": 2.4599260800034326,
-              "Percent_2": 28.043929552404755,
-              "Percent_3": 11.07407596757762,
-              "Percent_4": 57.02059886010421,
-              "Percent_5": 1.1867656253476404,
-              "Percent_6": 0.21470391456233207
-          },
-          "odsgeneral": {
-              "Area_km2_1": 3497.224819236073,
-              "Area_km2_2": 47161.99300147736,
-              "Area_km2_3": 326.30655473999593,
-              "Percent_1": 6.859250467804904,
-              "Percent_2": 92.50075110374489,
-              "Percent_3": 0.6399984284502006
-          },
-          "veg2000": {
-              "Area_km2_1": 36391.29949081945,
-              "Percent_1": 68.93217469914214
-          },
-          "veg2010": {
-              "Area_km2_1": 33539.63819483078,
-              "Percent_1": 63.530575487565144
-          },
-          "veg2020": {
-              "Area_km2_1": 31720.596352803997,
-              "Percent_1": 60.084957666984906
-          }
+        "NM_UF": "Rio Grande do Norte",
+        "SIGLA_UF": "RN",
+        "densgeneral": {
+          "Area_general": "62.54 hab/Km²",
+          "Percent_1": 7.784,
+          "Percent_2": 23.353,
+          "Percent_3": 30.539,
+          "Percent_4": 38.323,
+          "Area_info_1": "13 municípios",
+          "Area_info_2": "39 municípios",
+          "Area_info_3": "51 município",
+          "Area_info_4": "64 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "8.3 Mil Km²",
+          "Area_info_2": "32.7 Mil Km²",
+          "Area_info_3": "11.2 Mil Km²",
+          "Area_info_4": "38 Km²",
+          "Percent_1": 15.823499006137729,
+          "Percent_2": 62.63396268889755,
+          "Percent_3": 21.470100659317232,
+          "Percent_4": 0.07243764564749078,
+          "Area_general": "52.3 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "44.5 Mil Km²",
+          "Area_info_3": "4.7 Mil Km²",
+          "Area_info_4": "3.0 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 85.22384757523164,
+          "Percent_3": 9.02291763322789,
+          "Percent_4": 5.753234791540461,
+          "Area_general": "52.3 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "45.1 Mil Km²",
+          "Area_info_3": "3.8 Mil Km²",
+          "Area_info_4": "3.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 86.37005117702469,
+          "Percent_3": 7.195703361278431,
+          "Percent_4": 6.434245461696868,
+          "Area_general": "52.3 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "44.5 Mil Km²",
+          "Area_info_3": "4.5 Mil Km²",
+          "Area_info_4": "3.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 85.19576015299968,
+          "Percent_3": 8.689379277253753,
+          "Percent_4": 6.114860569746545,
+          "Area_general": "52.3 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "44.6 Mil Km²",
+          "Area_info_3": "4.0 Mil Km²",
+          "Area_info_4": "2.0 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 88.10094213523016,
+          "Percent_3": 7.900554860613427,
+          "Percent_4": 3.998503004156423,
+          "Area_general": "50.6 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "1.3 Mil Km²",
+          "Area_info_2": "14.5 Mil Km²",
+          "Area_info_3": "5.7 Mil Km²",
+          "Area_info_4": "29.4 Mil Km²",
+          "Area_info_5": "613 Km²",
+          "Area_info_6": "111 Km²",
+          "Percent_1": 2.4599260800034326,
+          "Percent_2": 28.043929552404755,
+          "Percent_3": 11.07407596757762,
+          "Percent_4": 57.02059886010421,
+          "Percent_5": 1.1867656253476404,
+          "Percent_6": 0.21470391456233207,
+          "Area_general": "51.6 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "3.5 Mil Km²",
+          "Area_info_2": "47.2 Mil Km²",
+          "Area_info_3": "326 Km²",
+          "Percent_1": 6.859250467804904,
+          "Percent_2": 92.50075110374489,
+          "Percent_3": 0.6399984284502006,
+          "Area_general": "51.0 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "36.4 Mil Km²",
+          "Percent_1": 68.93217469914214,
+          "Area_general": "36.4 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "33.5 Mil Km²",
+          "Percent_1": 63.530575487565144,
+          "Area_general": "33.5 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "31.7 Mil Km²",
+          "Percent_1": 60.084957666984906,
+          "Area_general": "31.7 Mil Km²"
+        }
       }
     },
     {
@@ -67281,92 +67680,113 @@
       },
       "id": 11,
       "properties": {
-          "NM_UF": "Rondônia",
-          "SIGLA_UF": "RO",
-          "speigeneral": {
-              "Area_km2_1": 85355.3095570028,
-              "Area_km2_2": 104807.92690211421,
-              "Area_km2_3": 31715.089016546583,
-              "Area_km2_4": 10811.194956902003,
-              "Percent_1": 36.6820600250191,
-              "Percent_2": 45.0419626579135,
-              "Percent_3": 13.629788293683706,
-              "Percent_4": 4.646189023383687
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 236359.39163166695,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 236359.39163166704,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 236359.39163166698,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 236736.46327073252,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 108.928955235881,
-              "Area_km2_3": 634.5328571744753,
-              "Area_km2_4": 89453.13852277024,
-              "Area_km2_5": 37351.78366890575,
-              "Area_km2_6": 107652.39193867067,
-              "Percent_1": 0.0,
-              "Percent_2": 0.046313178517060696,
-              "Percent_3": 0.2697834880140478,
-              "Percent_4": 38.03267151828669,
-              "Percent_5": 15.880808011448227,
-              "Percent_6": 45.770423803733976
-          },
-          "odsgeneral": {
-              "Area_km2_1": 37199.68363235696,
-              "Area_km2_2": 189241.88089606585,
-              "Area_km2_3": 2102.150226703023,
-              "Percent_1": 16.27683512198737,
-              "Percent_2": 82.80336262969642,
-              "Percent_3": 0.9198022483162054
-          },
-          "veg2000": {
-              "Area_km2_1": 234856.19616968185,
-              "Percent_1": 98.9221480964717
-          },
-          "veg2010": {
-              "Area_km2_1": 150583.87459013637,
-              "Percent_1": 63.42638851386185
-          },
-          "veg2020": {
-              "Area_km2_1": 139965.4088149504,
-              "Percent_1": 58.953858254488345
-          }
+        "NM_UF": "Rondônia",
+        "SIGLA_UF": "RO",
+        "densgeneral": {
+          "Area_general": "6.65 hab/Km²",
+          "Percent_1": 84.615,
+          "Percent_2": 13.462,
+          "Percent_3": 1.923,
+          "Percent_4": 0.0,
+          "Area_info_1": "44 municípios",
+          "Area_info_2": "7 municípios",
+          "Area_info_3": "1 município",
+          "Area_info_4": "0 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "85.4 Mil Km²",
+          "Area_info_2": "104.8 Mil Km²",
+          "Area_info_3": "31.7 Mil Km²",
+          "Area_info_4": "10.8 Mil Km²",
+          "Percent_1": 36.6820600250191,
+          "Percent_2": 45.0419626579135,
+          "Percent_3": 13.629788293683706,
+          "Percent_4": 4.646189023383687,
+          "Area_general": "232.7 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "236.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "236.4 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "236.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "236.4 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "236.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "236.4 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "236.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "236.7 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "109 Km²",
+          "Area_info_3": "635 Km²",
+          "Area_info_4": "89.5 Mil Km²",
+          "Area_info_5": "37.4 Mil Km²",
+          "Area_info_6": "107.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.046313178517060696,
+          "Percent_3": 0.2697834880140478,
+          "Percent_4": 38.03267151828669,
+          "Percent_5": 15.880808011448227,
+          "Percent_6": 45.770423803733976,
+          "Area_general": "235.2 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "37.2 Mil Km²",
+          "Area_info_2": "189.2 Mil Km²",
+          "Area_info_3": "2.1 Mil Km²",
+          "Percent_1": 16.27683512198737,
+          "Percent_2": 82.80336262969642,
+          "Percent_3": 0.9198022483162054,
+          "Area_general": "228.5 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "234.9 Mil Km²",
+          "Percent_1": 98.9221480964717,
+          "Area_general": "234.9 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "150.6 Mil Km²",
+          "Percent_1": 63.42638851386185,
+          "Area_general": "150.6 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "140.0 Mil Km²",
+          "Percent_1": 58.953858254488345,
+          "Area_general": "140.0 Mil Km²"
+        }
       }
     },
     {
@@ -68075,7 +68495,7 @@
               [-60.160198, 0.016603],
               [-60.170479, 0.000521],
               [-60.174674, 0.000347],
-              [-60.183579, -0.000023],
+              [-60.183579, -2.3e-5],
               [-60.181569, -0.007908],
               [-60.181137, -0.009602],
               [-60.20275, -0.033268],
@@ -71507,92 +71927,113 @@
       },
       "id": 14,
       "properties": {
-          "NM_UF": "Roraima",
-          "SIGLA_UF": "RR",
-          "speigeneral": {
-              "Area_km2_1": 98672.26832893393,
-              "Area_km2_2": 117110.13555449407,
-              "Area_km2_3": 1155.3079813494917,
-              "Area_km2_4": 0.0,
-              "Percent_1": 45.48414726086847,
-              "Percent_2": 53.98329988263711,
-              "Percent_3": 0.5325528564944129,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 221219.65090001657,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 221219.65090001654,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 221219.65090001654,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 220673.72836092496,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 5.778828921875,
-              "Area_km2_2": 219.61482834296203,
-              "Area_km2_3": 6708.483407955825,
-              "Area_km2_4": 43842.63049203797,
-              "Area_km2_5": 42884.88462072009,
-              "Area_km2_6": 127116.72461055519,
-              "Percent_1": 0.0026174826590309617,
-              "Percent_2": 0.09947309612814294,
-              "Percent_3": 3.038563561252475,
-              "Percent_4": 19.858231934296004,
-              "Percent_5": 19.42442722337204,
-              "Percent_6": 57.5766867022923
-          },
-          "odsgeneral": {
-              "Area_km2_1": 9507.522837501441,
-              "Area_km2_2": 208217.41217235808,
-              "Area_km2_3": 82.10255595884746,
-              "Percent_1": 4.365112782284823,
-              "Percent_2": 95.5971921290365,
-              "Percent_3": 0.037695088678682924
-          },
-          "veg2000": {
-              "Area_km2_1": 221193.95102317107,
-              "Percent_1": 99.15002322226181
-          },
-          "veg2010": {
-              "Area_km2_1": 211670.78943233177,
-              "Percent_1": 94.88127315693045
-          },
-          "veg2020": {
-              "Area_km2_1": 209600.59123028745,
-              "Percent_1": 93.9533083601631
-          }
+        "NM_UF": "Roraima",
+        "SIGLA_UF": "RR",
+        "densgeneral": {
+          "Area_general": "2.85 hab/Km²",
+          "Percent_1": 93.333,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 6.667,
+          "Area_info_1": "14 municípios",
+          "Area_info_2": "0 municípios",
+          "Area_info_3": "0 municípios",
+          "Area_info_4": "1 município"
+        },
+        "speigeneral": {
+          "Area_info_1": "98.7 Mil Km²",
+          "Area_info_2": "117.1 Mil Km²",
+          "Area_info_3": "1.2 Mil Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 45.48414726086847,
+          "Percent_2": 53.98329988263711,
+          "Percent_3": 0.5325528564944129,
+          "Percent_4": 0.0,
+          "Area_general": "216.9 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "221.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "221.2 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "221.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "221.2 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "221.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "221.2 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "220.7 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "220.7 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "6 Km²",
+          "Area_info_2": "220 Km²",
+          "Area_info_3": "6.7 Mil Km²",
+          "Area_info_4": "43.8 Mil Km²",
+          "Area_info_5": "42.9 Mil Km²",
+          "Area_info_6": "127.1 Mil Km²",
+          "Percent_1": 0.0026174826590309617,
+          "Percent_2": 0.09947309612814294,
+          "Percent_3": 3.038563561252475,
+          "Percent_4": 19.858231934296004,
+          "Percent_5": 19.42442722337204,
+          "Percent_6": 57.5766867022923,
+          "Area_general": "220.8 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "9.5 Mil Km²",
+          "Area_info_2": "208.2 Mil Km²",
+          "Area_info_3": "82 Km²",
+          "Percent_1": 4.365112782284823,
+          "Percent_2": 95.5971921290365,
+          "Percent_3": 0.037695088678682924,
+          "Area_general": "217.8 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "221.2 Mil Km²",
+          "Percent_1": 99.15002322226181,
+          "Area_general": "221.2 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "211.7 Mil Km²",
+          "Percent_1": 94.88127315693045,
+          "Area_general": "211.7 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "209.6 Mil Km²",
+          "Percent_1": 93.9533083601631,
+          "Area_general": "209.6 Mil Km²"
+        }
       }
     },
     {
@@ -77080,92 +77521,113 @@
       },
       "id": 43,
       "properties": {
-          "NM_UF": "Rio Grande do Sul",
-          "SIGLA_UF": "RS",
-          "speigeneral": {
-              "Area_km2_1": 207964.16397582667,
-              "Area_km2_2": 69939.66026364485,
-              "Area_km2_3": 197.53531043670918,
-              "Area_km2_4": 0.0,
-              "Percent_1": 74.77998824328125,
-              "Percent_2": 25.148981787373625,
-              "Percent_3": 0.07102996934513706,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 279077.0837618183,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 279077.08376181824,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 279077.0837618182,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 268387.28769762657,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 1.0265929585908777,
-              "Area_km2_2": 619.1868077263384,
-              "Area_km2_3": 70901.64733807213,
-              "Area_km2_4": 98437.28800269125,
-              "Area_km2_5": 60629.75287210991,
-              "Area_km2_6": 29278.46193748724,
-              "Percent_1": 0.0003950449739292581,
-              "Percent_2": 0.23827032347011604,
-              "Percent_3": 27.283782914950383,
-              "Percent_4": 37.87981940385343,
-              "Percent_5": 23.33103782006873,
-              "Percent_6": 11.266694492683422
-          },
-          "odsgeneral": {
-              "Area_km2_1": 16632.36781645335,
-              "Area_km2_2": 216583.0411874916,
-              "Area_km2_3": 24499.056659416157,
-              "Percent_1": 6.453796752790485,
-              "Percent_2": 84.0399240415176,
-              "Percent_3": 9.506279205691927
-          },
-          "veg2000": {
-              "Area_km2_1": 119850.0133373222,
-              "Percent_1": 42.57776436065325
-          },
-          "veg2010": {
-              "Area_km2_1": 108629.83736083441,
-              "Percent_1": 38.5916988149835
-          },
-          "veg2020": {
-              "Area_km2_1": 94728.47694548998,
-              "Percent_1": 33.65311907205802
-          }
+        "NM_UF": "Rio Grande do Sul",
+        "SIGLA_UF": "RS",
+        "densgeneral": {
+          "Area_general": "38.63 hab/Km²",
+          "Percent_1": 21.529,
+          "Percent_2": 33.199,
+          "Percent_3": 21.932,
+          "Percent_4": 23.34,
+          "Area_info_1": "107 municípios",
+          "Area_info_2": "165 municípios",
+          "Area_info_3": "109 municípios",
+          "Area_info_4": "116 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "208.0 Mil Km²",
+          "Area_info_2": "69.9 Mil Km²",
+          "Area_info_3": "198 Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 74.77998824328125,
+          "Percent_2": 25.148981787373625,
+          "Percent_3": 0.07102996934513706,
+          "Percent_4": 0.0,
+          "Area_general": "278.1 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "279.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "279.1 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "279.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "279.1 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "279.1 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "279.1 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "268.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "268.4 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "1 Km²",
+          "Area_info_2": "619 Km²",
+          "Area_info_3": "70.9 Mil Km²",
+          "Area_info_4": "98.4 Mil Km²",
+          "Area_info_5": "60.6 Mil Km²",
+          "Area_info_6": "29.3 Mil Km²",
+          "Percent_1": 0.0003950449739292581,
+          "Percent_2": 0.23827032347011604,
+          "Percent_3": 27.283782914950383,
+          "Percent_4": 37.87981940385343,
+          "Percent_5": 23.33103782006873,
+          "Percent_6": 11.266694492683422,
+          "Area_general": "259.9 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "16.6 Mil Km²",
+          "Area_info_2": "216.6 Mil Km²",
+          "Area_info_3": "24.5 Mil Km²",
+          "Percent_1": 6.453796752790485,
+          "Percent_2": 84.0399240415176,
+          "Percent_3": 9.506279205691927,
+          "Area_general": "257.7 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "119.9 Mil Km²",
+          "Percent_1": 42.57776436065325,
+          "Area_general": "119.9 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "108.6 Mil Km²",
+          "Percent_1": 38.5916988149835,
+          "Area_general": "108.6 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "94.7 Mil Km²",
+          "Percent_1": 33.65311907205802,
+          "Area_general": "94.7 Mil Km²"
+        }
       }
     },
     {
@@ -80540,92 +81002,113 @@
       },
       "id": 42,
       "properties": {
-          "NM_UF": "Santa Catarina",
-          "SIGLA_UF": "SC",
-          "speigeneral": {
-              "Area_km2_1": 86200.43363002576,
-              "Area_km2_2": 8479.19589304783,
-              "Area_km2_3": 110.76361131640626,
-              "Area_km2_4": 0.0,
-              "Percent_1": 90.93794294936014,
-              "Percent_2": 8.945205956711636,
-              "Percent_3": 0.11685109392823181,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 94790.42279122527,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 94790.42279122527,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 94790.42279122525,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 94045.77089345625,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.09470200417719822,
-              "Area_km2_2": 139.76650434907896,
-              "Area_km2_3": 2107.74487064206,
-              "Area_km2_4": 48433.03295498369,
-              "Area_km2_5": 4481.423136162094,
-              "Area_km2_6": 37000.65263412791,
-              "Percent_1": 0.00010275522414935056,
-              "Percent_2": 0.15165189594180437,
-              "Percent_3": 2.2869821870635345,
-              "Percent_4": 52.551656121344294,
-              "Percent_5": 4.862512075275546,
-              "Percent_6": 40.147094965150664
-          },
-          "odsgeneral": {
-              "Area_km2_1": 11793.784629080988,
-              "Area_km2_2": 78050.9277034666,
-              "Area_km2_3": 1566.7538232439792,
-              "Percent_1": 12.901865734196813,
-              "Percent_2": 85.38417660914142,
-              "Percent_3": 1.7139576566617778
-          },
-          "veg2000": {
-              "Area_km2_1": 43666.316588886846,
-              "Percent_1": 45.83747883764555
-          },
-          "veg2010": {
-              "Area_km2_1": 40605.75983250596,
-              "Percent_1": 42.62474608363703
-          },
-          "veg2020": {
-              "Area_km2_1": 39129.95175230018,
-              "Percent_1": 41.07555835887998
-          }
+        "NM_UF": "Santa Catarina",
+        "SIGLA_UF": "SC",
+        "densgeneral": {
+          "Area_general": "79.5 hab/Km²",
+          "Percent_1": 12.203,
+          "Percent_2": 20.339,
+          "Percent_3": 31.186,
+          "Percent_4": 36.271,
+          "Area_info_1": "36 municípios",
+          "Area_info_2": "60 municípios",
+          "Area_info_3": "92 municípios",
+          "Area_info_4": "107 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "86.2 Mil Km²",
+          "Area_info_2": "8.5 Mil Km²",
+          "Area_info_3": "111 Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 90.93794294936014,
+          "Percent_2": 8.945205956711636,
+          "Percent_3": 0.11685109392823181,
+          "Percent_4": 0.0,
+          "Area_general": "94.8 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "94.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "94.8 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "94.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "94.8 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "94.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "94.8 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "94.0 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "94.0 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "140 Km²",
+          "Area_info_3": "2.1 Mil Km²",
+          "Area_info_4": "48.4 Mil Km²",
+          "Area_info_5": "4.5 Mil Km²",
+          "Area_info_6": "37.0 Mil Km²",
+          "Percent_1": 0.00010275522414935056,
+          "Percent_2": 0.15165189594180437,
+          "Percent_3": 2.2869821870635345,
+          "Percent_4": 52.551656121344294,
+          "Percent_5": 4.862512075275546,
+          "Percent_6": 40.147094965150664,
+          "Area_general": "92.2 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "11.8 Mil Km²",
+          "Area_info_2": "78.1 Mil Km²",
+          "Area_info_3": "1.6 Mil Km²",
+          "Percent_1": 12.901865734196813,
+          "Percent_2": 85.38417660914142,
+          "Percent_3": 1.7139576566617778,
+          "Area_general": "91.4 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "43.7 Mil Km²",
+          "Percent_1": 45.83747883764555,
+          "Area_general": "43.7 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "40.6 Mil Km²",
+          "Percent_1": 42.62474608363703,
+          "Area_general": "40.6 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "39.1 Mil Km²",
+          "Percent_1": 41.07555835887998,
+          "Area_general": "39.1 Mil Km²"
+        }
       }
     },
     {
@@ -81357,92 +81840,113 @@
       },
       "id": 28,
       "properties": {
-          "NM_UF": "Sergipe",
-          "SIGLA_UF": "SE",
-          "speigeneral": {
-              "Area_km2_1": 1437.4718175637697,
-              "Area_km2_2": 14289.221598876162,
-              "Area_km2_3": 6019.41479365077,
-              "Area_km2_4": 0.0,
-              "Percent_1": 6.610248618632135,
-              "Percent_2": 65.70932812817344,
-              "Percent_3": 27.68042325319443,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 5405.899161135239,
-              "Area_km2_3": 4178.427880460583,
-              "Area_km2_4": 12161.7928094298,
-              "Percent_1": 0.0,
-              "Percent_2": 24.859143599727187,
-              "Percent_3": 19.21459050665314,
-              "Percent_4": 55.92626589361968
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 6290.375183034908,
-              "Area_km2_3": 4662.703496965951,
-              "Area_km2_4": 10793.04117102476,
-              "Percent_1": 0.0,
-              "Percent_2": 28.926425615824208,
-              "Percent_3": 21.441542348282614,
-              "Percent_4": 49.63203203589317
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 6121.43157288703,
-              "Area_km2_3": 4105.239608126772,
-              "Area_km2_4": 11519.448670011821,
-              "Percent_1": 0.0,
-              "Percent_2": 28.14953478975847,
-              "Percent_3": 18.878032661689552,
-              "Percent_4": 52.972432548551986
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 6731.556317640625,
-              "Area_km2_3": 4219.93407039144,
-              "Area_km2_4": 10850.664841841362,
-              "Percent_1": 0.0,
-              "Percent_2": 30.875646222429477,
-              "Percent_3": 19.355582170194186,
-              "Percent_4": 49.76877160737634
-          },
-          "deggeneral": {
-              "Area_km2_1": 71.77633401031709,
-              "Area_km2_2": 5791.6843955983395,
-              "Area_km2_3": 6219.576824317991,
-              "Area_km2_4": 7109.485220183998,
-              "Area_km2_5": 1806.0692308609446,
-              "Area_km2_6": 372.6286605042174,
-              "Percent_1": 0.33585509753436005,
-              "Percent_2": 27.10039115807049,
-              "Percent_3": 29.102581091053082,
-              "Percent_4": 33.26663147355468,
-              "Percent_5": 8.450940913162547,
-              "Percent_6": 1.743600266624832
-          },
-          "odsgeneral": {
-              "Area_km2_1": 3657.8831964986252,
-              "Area_km2_2": 16375.4356841467,
-              "Area_km2_3": 53.41923264411765,
-              "Percent_1": 18.21043902632732,
-              "Percent_2": 81.52361817926358,
-              "Percent_3": 0.2659427944090899
-          },
-          "veg2000": {
-              "Area_km2_1": 6215.901043144855,
-              "Percent_1": 28.383239261074106
-          },
-          "veg2010": {
-              "Area_km2_1": 4390.337530552355,
-              "Percent_1": 20.04729478503649
-          },
-          "veg2020": {
-              "Area_km2_1": 3584.7427025203096,
-              "Percent_1": 16.368762808287237
-          }
+        "NM_UF": "Sergipe",
+        "SIGLA_UF": "SE",
+        "densgeneral": {
+          "Area_general": "100.74 hab/Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 4.0,
+          "Percent_3": 32.0,
+          "Percent_4": 64.0,
+          "Area_info_1": "0 municípios",
+          "Area_info_2": "3 municípios",
+          "Area_info_3": "24 municípios",
+          "Area_info_4": "48 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "1.4 Mil Km²",
+          "Area_info_2": "14.3 Mil Km²",
+          "Area_info_3": "6.0 Mil Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 6.610248618632135,
+          "Percent_2": 65.70932812817344,
+          "Percent_3": 27.68042325319443,
+          "Percent_4": 0.0,
+          "Area_general": "21.7 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "5.4 Mil Km²",
+          "Area_info_3": "4.2 Mil Km²",
+          "Area_info_4": "12.2 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 24.859143599727187,
+          "Percent_3": 19.21459050665314,
+          "Percent_4": 55.92626589361968,
+          "Area_general": "21.7 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "6.3 Mil Km²",
+          "Area_info_3": "4.7 Mil Km²",
+          "Area_info_4": "10.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 28.926425615824208,
+          "Percent_3": 21.441542348282614,
+          "Percent_4": 49.63203203589317,
+          "Area_general": "21.7 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "6.1 Mil Km²",
+          "Area_info_3": "4.1 Mil Km²",
+          "Area_info_4": "11.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 28.14953478975847,
+          "Percent_3": 18.878032661689552,
+          "Percent_4": 52.972432548551986,
+          "Area_general": "21.7 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "6.7 Mil Km²",
+          "Area_info_3": "4.2 Mil Km²",
+          "Area_info_4": "10.9 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 30.875646222429477,
+          "Percent_3": 19.355582170194186,
+          "Percent_4": 49.76877160737634,
+          "Area_general": "21.8 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "72 Km²",
+          "Area_info_2": "5.8 Mil Km²",
+          "Area_info_3": "6.2 Mil Km²",
+          "Area_info_4": "7.1 Mil Km²",
+          "Area_info_5": "1.8 Mil Km²",
+          "Area_info_6": "373 Km²",
+          "Percent_1": 0.33585509753436005,
+          "Percent_2": 27.10039115807049,
+          "Percent_3": 29.102581091053082,
+          "Percent_4": 33.26663147355468,
+          "Percent_5": 8.450940913162547,
+          "Percent_6": 1.743600266624832,
+          "Area_general": "21.4 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "3.7 Mil Km²",
+          "Area_info_2": "16.4 Mil Km²",
+          "Area_info_3": "53 Km²",
+          "Percent_1": 18.21043902632732,
+          "Percent_2": 81.52361817926358,
+          "Percent_3": 0.2659427944090899,
+          "Area_general": "20.1 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "6.2 Mil Km²",
+          "Percent_1": 28.383239261074106,
+          "Area_general": "6.2 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "4.4 Mil Km²",
+          "Percent_1": 20.04729478503649,
+          "Area_general": "4.4 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "3.6 Mil Km²",
+          "Percent_1": 16.368762808287237,
+          "Area_general": "3.6 Mil Km²"
+        }
       }
     },
     {
@@ -85472,92 +85976,113 @@
       },
       "id": 35,
       "properties": {
-          "NM_UF": "São Paulo",
-          "SIGLA_UF": "SP",
-          "speigeneral": {
-              "Area_km2_1": 165564.85188813484,
-              "Area_km2_2": 73627.24135627733,
-              "Area_km2_3": 6869.16378770809,
-              "Area_km2_4": 108.0910620000469,
-              "Percent_1": 67.25648549259382,
-              "Percent_2": 29.909183221351636,
-              "Percent_3": 2.790422057372365,
-              "Percent_4": 0.04390922868216696
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 247584.07610622267,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 247584.07610622252,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 247584.07610622267,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 247482.0370045964,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 2.7658263610839846,
-              "Area_km2_2": 59877.06560017736,
-              "Area_km2_3": 81991.40888625165,
-              "Area_km2_4": 50718.51707689494,
-              "Area_km2_5": 13243.904598803,
-              "Area_km2_6": 27227.790482094715,
-              "Percent_1": 0.001186736945026587,
-              "Percent_2": 25.691535414993222,
-              "Percent_3": 35.18016729797936,
-              "Percent_4": 21.761864323443486,
-              "Percent_5": 5.6825804775565185,
-              "Percent_6": 11.682665749082396
-          },
-          "odsgeneral": {
-              "Area_km2_1": 6785.890371424935,
-              "Area_km2_2": 213641.58044693287,
-              "Area_km2_3": 8373.047004379887,
-              "Percent_1": 2.965854463966851,
-              "Percent_2": 93.37460530244553,
-              "Percent_3": 3.6595402335876144
-          },
-          "veg2000": {
-              "Area_km2_1": 52114.866704441396,
-              "Percent_1": 21.00377506757381
-          },
-          "veg2010": {
-              "Area_km2_1": 50644.851630486446,
-              "Percent_1": 20.411317139313173
-          },
-          "veg2020": {
-              "Area_km2_1": 50091.525020126006,
-              "Percent_1": 20.188310761328452
-          }
+        "NM_UF": "São Paulo",
+        "SIGLA_UF": "SP",
+        "densgeneral": {
+          "Area_general": "178.92 hab/Km²",
+          "Percent_1": 7.442,
+          "Percent_2": 23.411,
+          "Percent_3": 25.736,
+          "Percent_4": 43.411,
+          "Area_info_1": "48 municípios",
+          "Area_info_2": "151 município",
+          "Area_info_3": "166 municípios",
+          "Area_info_4": "280 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "165.6 Mil Km²",
+          "Area_info_2": "73.6 Mil Km²",
+          "Area_info_3": "6.9 Mil Km²",
+          "Area_info_4": "108 Km²",
+          "Percent_1": 67.25648549259382,
+          "Percent_2": 29.909183221351636,
+          "Percent_3": 2.790422057372365,
+          "Percent_4": 0.04390922868216696,
+          "Area_general": "246.2 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "247.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "247.6 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "247.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "247.6 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "247.6 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "247.6 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "247.5 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "247.5 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "3 Km²",
+          "Area_info_2": "59.9 Mil Km²",
+          "Area_info_3": "82.0 Mil Km²",
+          "Area_info_4": "50.7 Mil Km²",
+          "Area_info_5": "13.2 Mil Km²",
+          "Area_info_6": "27.2 Mil Km²",
+          "Percent_1": 0.001186736945026587,
+          "Percent_2": 25.691535414993222,
+          "Percent_3": 35.18016729797936,
+          "Percent_4": 21.761864323443486,
+          "Percent_5": 5.6825804775565185,
+          "Percent_6": 11.682665749082396,
+          "Area_general": "233.1 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "6.8 Mil Km²",
+          "Area_info_2": "213.6 Mil Km²",
+          "Area_info_3": "8.4 Mil Km²",
+          "Percent_1": 2.965854463966851,
+          "Percent_2": 93.37460530244553,
+          "Percent_3": 3.6595402335876144,
+          "Area_general": "228.8 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "52.1 Mil Km²",
+          "Percent_1": 21.00377506757381,
+          "Area_general": "52.1 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "50.6 Mil Km²",
+          "Percent_1": 20.411317139313173,
+          "Area_general": "50.6 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "50.1 Mil Km²",
+          "Percent_1": 20.188310761328452,
+          "Area_general": "50.1 Mil Km²"
+        }
       }
     },
     {
@@ -88563,92 +89088,113 @@
       },
       "id": 17,
       "properties": {
-          "NM_UF": "Tocantins",
-          "SIGLA_UF": "TO",
-          "speigeneral": {
-              "Area_km2_1": 25076.807161925753,
-              "Area_km2_2": 174130.65364143605,
-              "Area_km2_3": 76591.29867413249,
-              "Area_km2_4": 1624.5485519792978,
-              "Percent_1": 9.039185402281188,
-              "Percent_2": 62.76713188890975,
-              "Percent_3": 27.608097970627394,
-              "Percent_4": 0.5855847381816617
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 277423.3083136334,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 277423.3083136334,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 277423.3083136334,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 277423.3095446918,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 3.4075690908203127,
-              "Area_km2_2": 6006.449766074969,
-              "Area_km2_3": 41381.912440556574,
-              "Area_km2_4": 141900.85393457266,
-              "Area_km2_5": 84034.71362583587,
-              "Area_km2_6": 2157.178036867094,
-              "Percent_1": 0.0012369367062996495,
-              "Percent_2": 2.180322098301029,
-              "Percent_3": 15.02150216484098,
-              "Percent_4": 51.50955716782958,
-              "Percent_5": 30.504332888567376,
-              "Percent_6": 0.78304874375474
-          },
-          "odsgeneral": {
-              "Area_km2_1": 27366.74066528248,
-              "Area_km2_2": 232809.18100330926,
-              "Area_km2_3": 14391.604821239845,
-              "Percent_1": 9.96721681371012,
-              "Percent_2": 84.79122931237507,
-              "Percent_3": 5.241553873914812
-          },
-          "veg2000": {
-              "Area_km2_1": 224173.71375229507,
-              "Percent_1": 80.80595410455265
-          },
-          "veg2010": {
-              "Area_km2_1": 190703.48644802923,
-              "Percent_1": 68.74123159027097
-          },
-          "veg2020": {
-              "Area_km2_1": 170593.60472670762,
-              "Percent_1": 61.49239696010254
-          }
+        "NM_UF": "Tocantins",
+        "SIGLA_UF": "TO",
+        "densgeneral": {
+          "Area_general": "5.45 hab/Km²",
+          "Percent_1": 84.892,
+          "Percent_2": 7.194,
+          "Percent_3": 6.475,
+          "Percent_4": 1.439,
+          "Area_info_1": "118 municípios",
+          "Area_info_2": "10 municípios",
+          "Area_info_3": "9 municípios",
+          "Area_info_4": "2 municípios"
+        },
+        "speigeneral": {
+          "Area_info_1": "25.1 Mil Km²",
+          "Area_info_2": "174.1 Mil Km²",
+          "Area_info_3": "76.6 Mil Km²",
+          "Area_info_4": "1.6 Mil Km²",
+          "Percent_1": 9.039185402281188,
+          "Percent_2": 62.76713188890975,
+          "Percent_3": 27.608097970627394,
+          "Percent_4": 0.5855847381816617,
+          "Area_general": "277.4 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "277.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "277.4 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "277.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "277.4 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "277.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "277.4 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "277.4 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "277.4 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "3 Km²",
+          "Area_info_2": "6.0 Mil Km²",
+          "Area_info_3": "41.4 Mil Km²",
+          "Area_info_4": "141.9 Mil Km²",
+          "Area_info_5": "84.0 Mil Km²",
+          "Area_info_6": "2.2 Mil Km²",
+          "Percent_1": 0.0012369367062996495,
+          "Percent_2": 2.180322098301029,
+          "Percent_3": 15.02150216484098,
+          "Percent_4": 51.50955716782958,
+          "Percent_5": 30.504332888567376,
+          "Percent_6": 0.78304874375474,
+          "Area_general": "275.5 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "27.4 Mil Km²",
+          "Area_info_2": "232.8 Mil Km²",
+          "Area_info_3": "14.4 Mil Km²",
+          "Percent_1": 9.96721681371012,
+          "Percent_2": 84.79122931237507,
+          "Percent_3": 5.241553873914812,
+          "Area_general": "274.6 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "224.2 Mil Km²",
+          "Percent_1": 80.80595410455265,
+          "Area_general": "224.2 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "190.7 Mil Km²",
+          "Percent_1": 68.74123159027097,
+          "Area_general": "190.7 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "170.6 Mil Km²",
+          "Percent_1": 61.49239696010254,
+          "Area_general": "170.6 Mil Km²"
+        }
       }
     },
     {
@@ -88875,92 +89421,113 @@
       },
       "id": 53,
       "properties": {
-          "NM_UF": "Distrito Federal",
-          "SIGLA_UF": "DF",
-          "speigeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 4730.830026954225,
-              "Area_km2_3": 1029.9280416662743,
-              "Area_km2_4": 0.0,
-              "Percent_1": 0.0,
-              "Percent_2": 82.12165778534585,
-              "Percent_3": 17.878342214654158,
-              "Percent_4": 0.0
-          },
-          "ia1990": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 5760.757011162319,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2000": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 5760.757011162319,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2010": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 5760.757011162319,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "ia2020": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 0.0,
-              "Area_km2_3": 0.0,
-              "Area_km2_4": 5760.742427054195,
-              "Percent_1": 0.0,
-              "Percent_2": 0.0,
-              "Percent_3": 0.0,
-              "Percent_4": 100.0
-          },
-          "deggeneral": {
-              "Area_km2_1": 0.0,
-              "Area_km2_2": 25.063965189508654,
-              "Area_km2_3": 2297.7152501911028,
-              "Area_km2_4": 702.8645837019722,
-              "Area_km2_5": 2097.0724345894178,
-              "Area_km2_6": 23.07038556302562,
-              "Percent_1": 0.0,
-              "Percent_2": 0.48707742944138377,
-              "Percent_3": 44.652361635094024,
-              "Percent_4": 13.659030887030058,
-              "Percent_5": 40.753194599063434,
-              "Percent_6": 0.44833544937110636
-          },
-          "odsgeneral": {
-              "Area_km2_1": 368.8359496017482,
-              "Area_km2_2": 4609.600627987977,
-              "Area_km2_3": 148.87700698066413,
-              "Percent_1": 7.193551623440494,
-              "Percent_2": 89.90284194552943,
-              "Percent_3": 2.903606431030068
-          },
-          "veg2000": {
-              "Area_km2_1": 2465.0461806061194,
-              "Percent_1": 42.79037195185292
-          },
-          "veg2010": {
-              "Area_km2_1": 2362.031292282215,
-              "Percent_1": 41.00215174622798
-          },
-          "veg2020": {
-              "Area_km2_1": 2286.2286626045193,
-              "Percent_1": 39.68630511245838
-          }
+        "NM_UF": "Distrito Federal",
+        "SIGLA_UF": "DF",
+        "densgeneral": {
+          "Area_general": "489.06 hab/Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_info_1": "0 municípios",
+          "Area_info_2": "0 municípios",
+          "Area_info_3": "0 municípios",
+          "Area_info_4": "1 município"
+        },
+        "speigeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "4.7 Mil Km²",
+          "Area_info_3": "1.0 Mil Km²",
+          "Area_info_4": "0 Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 82.12165778534585,
+          "Percent_3": 17.878342214654158,
+          "Percent_4": 0.0,
+          "Area_general": "5.8 Mil Km²"
+        },
+        "ia1990": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "5.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "5.8 Mil Km²"
+        },
+        "ia2000": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "5.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "5.8 Mil Km²"
+        },
+        "ia2010": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "5.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "5.8 Mil Km²"
+        },
+        "ia2020": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "0 Km²",
+          "Area_info_3": "0 Km²",
+          "Area_info_4": "5.8 Mil Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 100.0,
+          "Area_general": "5.8 Mil Km²"
+        },
+        "deggeneral": {
+          "Area_info_1": "0 Km²",
+          "Area_info_2": "25 Km²",
+          "Area_info_3": "2.3 Mil Km²",
+          "Area_info_4": "703 Km²",
+          "Area_info_5": "2.1 Mil Km²",
+          "Area_info_6": "23 Km²",
+          "Percent_1": 0.0,
+          "Percent_2": 0.48707742944138377,
+          "Percent_3": 44.652361635094024,
+          "Percent_4": 13.659030887030058,
+          "Percent_5": 40.753194599063434,
+          "Percent_6": 0.44833544937110636,
+          "Area_general": "5.1 Mil Km²"
+        },
+        "odsgeneral": {
+          "Area_info_1": "369 Km²",
+          "Area_info_2": "4.6 Mil Km²",
+          "Area_info_3": "149 Km²",
+          "Percent_1": 7.193551623440494,
+          "Percent_2": 89.90284194552943,
+          "Percent_3": 2.903606431030068,
+          "Area_general": "5.1 Mil Km²"
+        },
+        "veg2000": {
+          "Area_info_1": "2.5 Mil Km²",
+          "Percent_1": 42.79037195185292,
+          "Area_general": "2.5 Mil Km²"
+        },
+        "veg2010": {
+          "Area_info_1": "2.4 Mil Km²",
+          "Percent_1": 41.00215174622798,
+          "Area_general": "2.4 Mil Km²"
+        },
+        "veg2020": {
+          "Area_info_1": "2.3 Mil Km²",
+          "Percent_1": 39.68630511245838,
+          "Area_general": "2.3 Mil Km²"
+        }
       }
     }
   ]
