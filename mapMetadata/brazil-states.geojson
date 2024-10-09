@@ -2604,6 +2604,17 @@
           "Area_info_1": "139.3 Mil Km²",
           "Area_info_2": "23.9 Mil Km²",
           "Area_general": "163.2 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 9.09,
+          "Percent_2": 22.73,
+          "Percent_3": 45.45,
+          "Percent_4": 22.73,
+          "Area_info_1": "2 municípios",
+          "Area_info_2": "5 municípios",
+          "Area_info_3": "10 municípios",
+          "Area_info_4": "5 municípios",
+          "Area_general": "17.19 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -3715,6 +3726,17 @@
           "Area_info_1": "4.4 Mil Km²",
           "Area_info_2": "2.4 Mil Km²",
           "Area_general": "6.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 14.71,
+          "Percent_2": 38.24,
+          "Percent_3": 39.22,
+          "Percent_4": 7.84,
+          "Area_info_1": "15 municípios",
+          "Area_info_2": "39 municípios",
+          "Area_info_3": "40 municípios",
+          "Area_info_4": "8 municípios",
+          "Area_general": "12.83 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -8796,6 +8818,17 @@
           "Area_info_1": "1463.9 Mil Km²",
           "Area_info_2": "42.9 Mil Km²",
           "Area_general": "1506.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 3.23,
+          "Percent_2": 16.13,
+          "Percent_3": 72.58,
+          "Percent_4": 8.06,
+          "Area_info_1": "2 municípios",
+          "Area_info_2": "10 municípios",
+          "Area_info_3": "45 municípios",
+          "Area_info_4": "5 municípios",
+          "Area_general": "15.68 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -11104,6 +11137,17 @@
           "Area_info_1": "135.6 Mil Km²",
           "Area_info_2": "3.2 Mil Km²",
           "Area_general": "138.7 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 12.5,
+          "Percent_2": 18.75,
+          "Percent_3": 62.5,
+          "Percent_4": 6.25,
+          "Area_info_1": "2 municípios",
+          "Area_info_2": "3 municípios",
+          "Area_info_3": "10 municípios",
+          "Area_info_4": "1 município",
+          "Area_general": "18.07 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -15878,6 +15922,17 @@
           "Area_info_1": "292.6 Mil Km²",
           "Area_info_2": "46.2 Mil Km²",
           "Area_general": "338.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 17.51,
+          "Percent_2": 25.66,
+          "Percent_3": 44.12,
+          "Percent_4": 12.71,
+          "Area_info_1": "73 municípios",
+          "Area_info_2": "107 municípios",
+          "Area_info_3": "184 municípios",
+          "Area_info_4": "53 municípios",
+          "Area_general": "15.31 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -17760,6 +17815,17 @@
           "Area_info_1": "88.1 Mil Km²",
           "Area_info_2": "16.2 Mil Km²",
           "Area_general": "104.3 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 19.02,
+          "Percent_2": 39.67,
+          "Percent_3": 34.78,
+          "Percent_4": 6.52,
+          "Area_info_1": "35 municípios",
+          "Area_info_2": "73 municípios",
+          "Area_info_3": "64 municípios",
+          "Area_info_4": "12 municípios",
+          "Area_general": "11.73 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -19347,6 +19413,17 @@
           "Area_info_1": "12.0 Mil Km²",
           "Area_info_2": "751.4 Km²",
           "Area_general": "12.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 30.77,
+          "Percent_2": 30.77,
+          "Percent_3": 33.33,
+          "Percent_4": 5.13,
+          "Area_info_1": "24 municípios",
+          "Area_info_2": "24 municípios",
+          "Area_info_3": "26 municípios",
+          "Area_info_4": "4 municípios",
+          "Area_general": "10.75 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -23603,6 +23680,17 @@
           "Area_info_1": "119.7 Mil Km²",
           "Area_info_2": "20.9 Mil Km²",
           "Area_general": "140.6 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 40.24,
+          "Percent_2": 19.92,
+          "Percent_3": 22.36,
+          "Percent_4": 17.48,
+          "Area_info_1": "99 municípios",
+          "Area_info_2": "49 municípios",
+          "Area_info_3": "55 municípios",
+          "Area_info_4": "43 municípios",
+          "Area_general": "12.66 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -29607,6 +29695,17 @@
           "Area_info_1": "166.0 Mil Km²",
           "Area_info_2": "105.9 Mil Km²",
           "Area_general": "271.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 13.82,
+          "Percent_2": 27.19,
+          "Percent_3": 47.0,
+          "Percent_4": 11.98,
+          "Area_info_1": "30 municípios",
+          "Area_info_2": "59 municípios",
+          "Area_info_3": "102 municípios",
+          "Area_info_4": "26 municípios",
+          "Area_general": "15.31 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -35339,6 +35438,17 @@
           "Area_info_1": "235.5 Mil Km²",
           "Area_info_2": "33.8 Mil Km²",
           "Area_general": "269.4 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 40.56,
+          "Percent_2": 20.52,
+          "Percent_3": 25.21,
+          "Percent_4": 13.72,
+          "Area_info_1": "346 municípios",
+          "Area_info_2": "175 municípios",
+          "Area_info_3": "215 municípios",
+          "Area_info_4": "117 municípios",
+          "Area_general": "11.36 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -39202,6 +39312,17 @@
           "Area_info_1": "136.8 Mil Km²",
           "Area_info_2": "16.0 Mil Km²",
           "Area_general": "152.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 18.99,
+          "Percent_2": 30.38,
+          "Percent_3": 37.97,
+          "Percent_4": 12.66,
+          "Area_info_1": "15 municípios",
+          "Area_info_2": "24 municípios",
+          "Area_info_3": "30 municípios",
+          "Area_info_4": "10 municípios",
+          "Area_general": "12.35 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -43396,6 +43517,17 @@
           "Area_info_1": "534.5 Mil Km²",
           "Area_info_2": "222.5 Mil Km²",
           "Area_general": "757.0 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 31.91,
+          "Percent_2": 24.82,
+          "Percent_3": 29.08,
+          "Percent_4": 14.18,
+          "Area_info_1": "45 municípios",
+          "Area_info_2": "35 municípios",
+          "Area_info_3": "41 municípios",
+          "Area_info_4": "20 municípios",
+          "Area_general": "14.08 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -49274,6 +49406,17 @@
           "Area_info_1": "923.2 Mil Km²",
           "Area_info_2": "277.7 Mil Km²",
           "Area_general": "1200.9 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 11.81,
+          "Percent_2": 31.94,
+          "Percent_3": 52.08,
+          "Percent_4": 4.17,
+          "Area_info_1": "17 municípios",
+          "Area_info_2": "46 municípios",
+          "Area_info_3": "75 municípios",
+          "Area_info_4": "6 municípios",
+          "Area_general": "14.66 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -51199,6 +51342,17 @@
           "Area_info_1": "28.3 Mil Km²",
           "Area_info_2": "5.5 Mil Km²",
           "Area_general": "33.8 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 32.29,
+          "Percent_2": 16.14,
+          "Percent_3": 32.74,
+          "Percent_4": 18.83,
+          "Area_info_1": "72 municípios",
+          "Area_info_2": "36 municípios",
+          "Area_info_3": "73 municípios",
+          "Area_info_4": "42 municípios",
+          "Area_general": "14.72 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -53601,6 +53755,17 @@
           "Area_info_1": "44.7 Mil Km²",
           "Area_info_2": "8.8 Mil Km²",
           "Area_general": "53.5 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 12.43,
+          "Percent_2": 38.92,
+          "Percent_3": 37.84,
+          "Percent_4": 10.81,
+          "Area_info_1": "23 municípios",
+          "Area_info_2": "72 municípios",
+          "Area_info_3": "70 municípios",
+          "Area_info_4": "20 municípios",
+          "Area_general": "13.27 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -56251,6 +56416,17 @@
           "Area_info_1": "197.7 Mil Km²",
           "Area_info_2": "21.6 Mil Km²",
           "Area_general": "219.3 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 34.38,
+          "Percent_2": 13.84,
+          "Percent_3": 29.46,
+          "Percent_4": 22.32,
+          "Area_info_1": "77 municípios",
+          "Area_info_2": "31 municípios",
+          "Area_info_3": "66 municípios",
+          "Area_info_4": "50 municípios",
+          "Area_general": "15.77 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -59228,6 +59404,17 @@
           "Area_info_1": "48.6 Mil Km²",
           "Area_info_2": "4.0 Mil Km²",
           "Area_general": "52.6 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 36.59,
+          "Percent_2": 25.31,
+          "Percent_3": 26.82,
+          "Percent_4": 11.28,
+          "Area_info_1": "146 municípios",
+          "Area_info_2": "101 municípios",
+          "Area_info_3": "107 municípios",
+          "Area_info_4": "45 municípios",
+          "Area_general": "10.32 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -62760,6 +62947,17 @@
           "Area_info_1": "14.6 Mil Km²",
           "Area_info_2": "402.5 Km²",
           "Area_general": "15.0 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 14.13,
+          "Percent_2": 36.96,
+          "Percent_3": 45.65,
+          "Percent_4": 3.26,
+          "Area_info_1": "13 municípios",
+          "Area_info_2": "34 municípios",
+          "Area_info_3": "42 municípios",
+          "Area_info_4": "3 municípios",
+          "Area_general": "13.15 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -64116,6 +64314,17 @@
           "Area_info_1": "31.7 Mil Km²",
           "Area_info_2": "4.7 Mil Km²",
           "Area_general": "36.4 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 35.33,
+          "Percent_2": 23.95,
+          "Percent_3": 31.14,
+          "Percent_4": 9.58,
+          "Area_info_1": "59 municípios",
+          "Area_info_2": "40 municípios",
+          "Area_info_3": "52 municípios",
+          "Area_info_4": "16 municípios",
+          "Area_general": "11.07 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -67866,6 +68075,17 @@
           "Area_info_1": "140.0 Mil Km²",
           "Area_info_2": "94.9 Mil Km²",
           "Area_general": "234.9 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 26.92,
+          "Percent_2": 25.0,
+          "Percent_3": 34.62,
+          "Percent_4": 13.46,
+          "Area_info_1": "14 municípios",
+          "Area_info_2": "13 municípios",
+          "Area_info_3": "18 municípios",
+          "Area_info_4": "7 municípios",
+          "Area_general": "13.41 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -72117,6 +72337,17 @@
           "Area_info_1": "209.6 Mil Km²",
           "Area_info_2": "11.6 Mil Km²",
           "Area_general": "221.2 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 6.67,
+          "Percent_2": 20.0,
+          "Percent_3": 40.0,
+          "Percent_4": 33.33,
+          "Area_info_1": "1 município",
+          "Area_info_2": "3 municípios",
+          "Area_info_3": "6 municípios",
+          "Area_info_4": "5 municípios",
+          "Area_general": "18.79 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -77715,6 +77946,17 @@
           "Area_info_1": "94.7 Mil Km²",
           "Area_info_2": "25.1 Mil Km²",
           "Area_general": "119.9 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 50.91,
+          "Percent_2": 17.1,
+          "Percent_3": 18.91,
+          "Percent_4": 13.08,
+          "Area_info_1": "253 municípios",
+          "Area_info_2": "85 municípios",
+          "Area_info_3": "94 municípios",
+          "Area_info_4": "65 municípios",
+          "Area_general": "10.49 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -81200,6 +81442,17 @@
           "Area_info_1": "39.1 Mil Km²",
           "Area_info_2": "4.5 Mil Km²",
           "Area_general": "43.7 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 44.07,
+          "Percent_2": 23.05,
+          "Percent_3": 23.73,
+          "Percent_4": 9.15,
+          "Area_info_1": "130 municípios",
+          "Area_info_2": "68 municípios",
+          "Area_info_3": "70 municípios",
+          "Area_info_4": "27 municípios",
+          "Area_general": "9.79 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -82042,6 +82295,17 @@
           "Area_info_1": "3.6 Mil Km²",
           "Area_info_2": "2.6 Mil Km²",
           "Area_general": "6.2 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 17.33,
+          "Percent_2": 16.0,
+          "Percent_3": 44.0,
+          "Percent_4": 22.67,
+          "Area_info_1": "13 municípios",
+          "Area_info_2": "12 municípios",
+          "Area_info_3": "33 municípios",
+          "Area_info_4": "17 municípios",
+          "Area_general": "17.6 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -86182,6 +86446,17 @@
           "Area_info_1": "50.1 Mil Km²",
           "Area_info_2": "2.0 Mil Km²",
           "Area_general": "52.1 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 36.12,
+          "Percent_2": 28.84,
+          "Percent_3": 24.81,
+          "Percent_4": 10.23,
+          "Area_info_1": "233 municípios",
+          "Area_info_2": "186 municípios",
+          "Area_info_3": "160 municípios",
+          "Area_info_4": "66 municípios",
+          "Area_general": "11.3 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -89298,6 +89573,17 @@
           "Area_info_1": "170.6 Mil Km²",
           "Area_info_2": "53.6 Mil Km²",
           "Area_general": "224.2 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 42.45,
+          "Percent_2": 11.51,
+          "Percent_3": 24.46,
+          "Percent_4": 21.58,
+          "Area_info_1": "59 municípios",
+          "Area_info_2": "16 municípios",
+          "Area_info_3": "34 municípios",
+          "Area_info_4": "30 municípios",
+          "Area_general": "12.33 óbitos por mil nascidos vivos"
         }
       }
     },
@@ -89635,6 +89921,17 @@
           "Area_info_1": "2.3 Mil Km²",
           "Area_info_2": "178.8 Km²",
           "Area_general": "2.5 Mil Km²"
+        },
+        "mort_infantgeneral": {
+          "Percent_1": 100.0,
+          "Percent_2": 0.0,
+          "Percent_3": 0.0,
+          "Percent_4": 0.0,
+          "Area_info_1": "1 município",
+          "Area_info_2": "0 municípios",
+          "Area_info_3": "0 municípios",
+          "Area_info_4": "0 municípios",
+          "Area_general": "10.08 óbitos por mil nascidos vivos"
         }
       }
     }
