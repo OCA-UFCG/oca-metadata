@@ -2497,7 +2497,7 @@
         "NM_UF": "Acre",
         "SIGLA_UF": "AC",
         "densgeneral": {
-          "Area_general": "5.06 hab/Km²",
+          "Area_general": "Média estadual: 5.06 hab/Km²",
           "Percent_1": 95.455,
           "Percent_2": 0.0,
           "Percent_3": 4.545,
@@ -3625,7 +3625,7 @@
         "NM_UF": "Alagoas",
         "SIGLA_UF": "AL",
         "densgeneral": {
-          "Area_general": "112.38 hab/Km²",
+          "Area_general": "Média estadual: 112.38 hab/Km²",
           "Percent_1": 0.0,
           "Percent_2": 1.961,
           "Percent_3": 28.431,
@@ -8723,7 +8723,7 @@
         "NM_UF": "Amazonas",
         "SIGLA_UF": "AM",
         "densgeneral": {
-          "Area_general": "2.53 hab/Km²",
+          "Area_general": "Média estadual: 2.53 hab/Km²",
           "Percent_1": 91.935,
           "Percent_2": 4.839,
           "Percent_3": 1.613,
@@ -11048,7 +11048,7 @@
         "NM_UF": "Amapá",
         "SIGLA_UF": "AP",
         "densgeneral": {
-          "Area_general": "5.15 hab/Km²",
+          "Area_general": "Média estadual: 5.15 hab/Km²",
           "Percent_1": 87.5,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
@@ -15839,7 +15839,7 @@
         "NM_UF": "Bahia",
         "SIGLA_UF": "BA",
         "densgeneral": {
-          "Area_general": "25.04 hab/Km²",
+          "Area_general": "Média estadual: 25.04 hab/Km²",
           "Percent_1": 23.981,
           "Percent_2": 29.257,
           "Percent_3": 24.94,
@@ -17738,7 +17738,7 @@
         "NM_UF": "Ceará",
         "SIGLA_UF": "CE",
         "densgeneral": {
-          "Area_general": "59.07 hab/Km²",
+          "Area_general": "Média estadual: 59.07 hab/Km²",
           "Percent_1": 4.348,
           "Percent_2": 24.457,
           "Percent_3": 30.978,
@@ -19342,7 +19342,7 @@
         "NM_UF": "Espírito Santo",
         "SIGLA_UF": "ES",
         "densgeneral": {
-          "Area_general": "83.21 hab/Km²",
+          "Area_general": "Média estadual: 83.21 hab/Km²",
           "Percent_1": 2.564,
           "Percent_2": 11.538,
           "Percent_3": 46.154,
@@ -23615,7 +23615,7 @@
         "NM_UF": "Goiás",
         "SIGLA_UF": "GO",
         "densgeneral": {
-          "Area_general": "20.74 hab/Km²",
+          "Area_general": "Média estadual: 20.74 hab/Km²",
           "Percent_1": 55.691,
           "Percent_2": 21.138,
           "Percent_3": 13.415,
@@ -29636,7 +29636,7 @@
         "NM_UF": "Maranhão",
         "SIGLA_UF": "MA",
         "densgeneral": {
-          "Area_general": "20.56 hab/Km²",
+          "Area_general": "Média estadual: 20.56 hab/Km²",
           "Percent_1": 26.728,
           "Percent_2": 37.788,
           "Percent_3": 23.502,
@@ -35385,7 +35385,7 @@
         "NM_UF": "Minas Gerais",
         "SIGLA_UF": "MG",
         "densgeneral": {
-          "Area_general": "35.02 hab/Km²",
+          "Area_general": "Média estadual: 35.02 hab/Km²",
           "Percent_1": 24.502,
           "Percent_2": 28.488,
           "Percent_3": 24.736,
@@ -39265,7 +39265,7 @@
         "NM_UF": "Mato Grosso do Sul",
         "SIGLA_UF": "MS",
         "densgeneral": {
-          "Area_general": "7.72 hab/Km²",
+          "Area_general": "Média estadual: 7.72 hab/Km²",
           "Percent_1": 77.215,
           "Percent_2": 16.456,
           "Percent_3": 1.266,
@@ -43476,7 +43476,7 @@
         "NM_UF": "Mato Grosso",
         "SIGLA_UF": "MT",
         "densgeneral": {
-          "Area_general": "4.05 hab/Km²",
+          "Area_general": "Média estadual: 4.05 hab/Km²",
           "Percent_1": 91.489,
           "Percent_2": 4.255,
           "Percent_3": 1.418,
@@ -49371,7 +49371,7 @@
         "NM_UF": "Pará",
         "SIGLA_UF": "PA",
         "densgeneral": {
-          "Area_general": "6.52 hab/Km²",
+          "Area_general": "Média estadual: 6.52 hab/Km²",
           "Percent_1": 53.472,
           "Percent_2": 16.667,
           "Percent_3": 16.667,
@@ -51313,7 +51313,7 @@
         "NM_UF": "Paraíba",
         "SIGLA_UF": "PB",
         "densgeneral": {
-          "Area_general": "70.39 hab/Km²",
+          "Area_general": "Média estadual: 70.39 hab/Km²",
           "Percent_1": 10.314,
           "Percent_2": 17.937,
           "Percent_3": 28.7,
@@ -53732,7 +53732,7 @@
         "NM_UF": "Pernambuco",
         "SIGLA_UF": "PE",
         "densgeneral": {
-          "Area_general": "92.37 hab/Km²",
+          "Area_general": "Média estadual: 92.37 hab/Km²",
           "Percent_1": 4.324,
           "Percent_2": 10.811,
           "Percent_3": 15.135,
@@ -56399,7 +56399,7 @@
         "NM_UF": "Piauí",
         "SIGLA_UF": "PI",
         "densgeneral": {
-          "Area_general": "12.99 hab/Km²",
+          "Area_general": "Média estadual: 12.99 hab/Km²",
           "Percent_1": 57.143,
           "Percent_2": 25.893,
           "Percent_3": 12.946,
@@ -59393,7 +59393,7 @@
         "NM_UF": "Paraná",
         "SIGLA_UF": "PR",
         "densgeneral": {
-          "Area_general": "57.42 hab/Km²",
+          "Area_general": "Média estadual: 57.42 hab/Km²",
           "Percent_1": 12.782,
           "Percent_2": 32.08,
           "Percent_3": 32.08,
@@ -62942,7 +62942,7 @@
         "NM_UF": "Rio de Janeiro",
         "SIGLA_UF": "RJ",
         "densgeneral": {
-          "Area_general": "366.97 hab/Km²",
+          "Area_general": "Média estadual: 366.97 hab/Km²",
           "Percent_1": 0.0,
           "Percent_2": 6.522,
           "Percent_3": 14.13,
@@ -64315,7 +64315,7 @@
         "NM_UF": "Rio Grande do Norte",
         "SIGLA_UF": "RN",
         "densgeneral": {
-          "Area_general": "62.54 hab/Km²",
+          "Area_general": "Média estadual: 62.54 hab/Km²",
           "Percent_1": 7.784,
           "Percent_2": 23.353,
           "Percent_3": 30.539,
@@ -68082,7 +68082,7 @@
         "NM_UF": "Rondônia",
         "SIGLA_UF": "RO",
         "densgeneral": {
-          "Area_general": "6.65 hab/Km²",
+          "Area_general": "Média estadual: 6.65 hab/Km²",
           "Percent_1": 84.615,
           "Percent_2": 13.462,
           "Percent_3": 1.923,
@@ -72350,7 +72350,7 @@
         "NM_UF": "Roraima",
         "SIGLA_UF": "RR",
         "densgeneral": {
-          "Area_general": "2.85 hab/Km²",
+          "Area_general": "Média estadual: 2.85 hab/Km²",
           "Percent_1": 93.333,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
@@ -77965,7 +77965,7 @@
         "NM_UF": "Rio Grande do Sul",
         "SIGLA_UF": "RS",
         "densgeneral": {
-          "Area_general": "38.63 hab/Km²",
+          "Area_general": "Média estadual: 38.63 hab/Km²",
           "Percent_1": 21.529,
           "Percent_2": 33.199,
           "Percent_3": 21.932,
@@ -81467,7 +81467,7 @@
         "NM_UF": "Santa Catarina",
         "SIGLA_UF": "SC",
         "densgeneral": {
-          "Area_general": "79.5 hab/Km²",
+          "Area_general": "Média estadual: 79.5 hab/Km²",
           "Percent_1": 12.203,
           "Percent_2": 20.339,
           "Percent_3": 31.186,
@@ -82326,7 +82326,7 @@
         "NM_UF": "Sergipe",
         "SIGLA_UF": "SE",
         "densgeneral": {
-          "Area_general": "100.74 hab/Km²",
+          "Area_general": "Média estadual: 100.74 hab/Km²",
           "Percent_1": 0.0,
           "Percent_2": 4.0,
           "Percent_3": 32.0,
@@ -86483,7 +86483,7 @@
         "NM_UF": "São Paulo",
         "SIGLA_UF": "SP",
         "densgeneral": {
-          "Area_general": "178.92 hab/Km²",
+          "Area_general": "Média estadual: 178.92 hab/Km²",
           "Percent_1": 7.442,
           "Percent_2": 23.411,
           "Percent_3": 25.736,
@@ -89616,7 +89616,7 @@
         "NM_UF": "Tocantins",
         "SIGLA_UF": "TO",
         "densgeneral": {
-          "Area_general": "5.45 hab/Km²",
+          "Area_general": "Média estadual: 5.45 hab/Km²",
           "Percent_1": 84.892,
           "Percent_2": 7.194,
           "Percent_3": 6.475,
@@ -89970,7 +89970,7 @@
         "NM_UF": "Distrito Federal",
         "SIGLA_UF": "DF",
         "densgeneral": {
-          "Area_general": "489.06 hab/Km²",
+          "Area_general": "Média estadual: 489.06 hab/Km²",
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
