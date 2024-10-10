@@ -2515,8 +2515,7 @@
           "Percent_1": 3.551212151768579,
           "Percent_2": 25.662641095405412,
           "Percent_3": 62.39905321901173,
-          "Percent_4": 8.387093533814266,
-          "Area_general": "162.2 Mil Km²"
+          "Percent_4": 8.387093533814266
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -2526,8 +2525,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "162.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -2537,8 +2535,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "162.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -2548,8 +2545,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "162.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -2559,8 +2555,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "159.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -3661,8 +3656,7 @@
           "Percent_1": 2.1727016659232286,
           "Percent_2": 31.236071350360316,
           "Percent_3": 65.55681091735178,
-          "Percent_4": 1.0344160663646804,
-          "Area_general": "27.6 Mil Km²"
+          "Percent_4": 1.0344160663646804
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -3672,8 +3666,7 @@
           "Percent_1": 0.0,
           "Percent_2": 36.857748299884605,
           "Percent_3": 10.90308053482162,
-          "Percent_4": 52.239171165293776,
-          "Area_general": "27.6 Mil Km²"
+          "Percent_4": 52.239171165293776
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -3683,8 +3676,7 @@
           "Percent_1": 0.0,
           "Percent_2": 42.351214143065434,
           "Percent_3": 10.0525018477638,
-          "Percent_4": 47.596284009170766,
-          "Area_general": "27.6 Mil Km²"
+          "Percent_4": 47.596284009170766
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -3694,8 +3686,7 @@
           "Percent_1": 0.0,
           "Percent_2": 40.06184758401471,
           "Percent_3": 10.627882835533347,
-          "Percent_4": 49.31026958045195,
-          "Area_general": "27.6 Mil Km²"
+          "Percent_4": 49.31026958045195
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -3705,8 +3696,7 @@
           "Percent_1": 0.0,
           "Percent_2": 42.41840724495545,
           "Percent_3": 11.237303408212654,
-          "Percent_4": 46.34428934683189,
-          "Area_general": "26.9 Mil Km²"
+          "Percent_4": 46.34428934683189
         },
         "deggeneral": {
           "Area_info_1": "680 Km²",
@@ -8777,8 +8767,7 @@
           "Percent_1": 21.849971549268705,
           "Percent_2": 49.674477067390264,
           "Percent_3": 25.221473328464334,
-          "Percent_4": 3.2540780548766928,
-          "Area_general": "1521.8 Mil Km²"
+          "Percent_4": 3.2540780548766928
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -8788,8 +8777,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1554.5 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -8799,8 +8787,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1554.5 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -8810,8 +8797,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1554.5 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -8821,8 +8807,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1553.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -11120,8 +11105,7 @@
           "Percent_1": 47.67964624987966,
           "Percent_2": 47.816634034882696,
           "Percent_3": 4.503719715237651,
-          "Percent_4": 0.0,
-          "Area_general": "122.8 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -11131,8 +11115,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "140.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -11142,8 +11125,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "140.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -11153,8 +11135,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "140.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -11164,8 +11145,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "138.3 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -15929,8 +15909,7 @@
           "Percent_1": 1.924336714108088,
           "Percent_2": 44.72573227755311,
           "Percent_3": 52.5407173781544,
-          "Percent_4": 0.8092136301844062,
-          "Area_general": "563.6 Mil Km²"
+          "Percent_4": 0.8092136301844062
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -15940,8 +15919,7 @@
           "Percent_1": 0.0,
           "Percent_2": 38.65411635781075,
           "Percent_3": 28.063786884858338,
-          "Percent_4": 33.282096757330905,
-          "Area_general": "563.6 Mil Km²"
+          "Percent_4": 33.282096757330905
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -15951,8 +15929,7 @@
           "Percent_1": 0.0,
           "Percent_2": 45.56580697456395,
           "Percent_3": 22.5875439933882,
-          "Percent_4": 31.846649032047846,
-          "Area_general": "563.6 Mil Km²"
+          "Percent_4": 31.846649032047846
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -15962,8 +15939,7 @@
           "Percent_1": 0.0,
           "Percent_2": 54.49968911034747,
           "Percent_3": 18.829322744801217,
-          "Percent_4": 26.67098814485132,
-          "Area_general": "563.6 Mil Km²"
+          "Percent_4": 26.67098814485132
         },
         "ia2020": {
           "Area_info_1": "5.7 Mil Km²",
@@ -15973,8 +15949,7 @@
           "Percent_1": 1.0124953909377814,
           "Percent_2": 58.9302156202305,
           "Percent_3": 18.5412169811757,
-          "Percent_4": 21.516072007656017,
-          "Area_general": "560.6 Mil Km²"
+          "Percent_4": 21.516072007656017
         },
         "deggeneral": {
           "Area_info_1": "2.2 Mil Km²",
@@ -17846,8 +17821,7 @@
           "Percent_1": 3.6166924586584734,
           "Percent_2": 77.10218858448599,
           "Percent_3": 19.281118956855543,
-          "Percent_4": 0.0,
-          "Area_general": "148.3 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -17857,8 +17831,7 @@
           "Percent_1": 0.0,
           "Percent_2": 52.80438388912083,
           "Percent_3": 30.380467278447355,
-          "Percent_4": 16.815148832431813,
-          "Area_general": "148.3 Mil Km²"
+          "Percent_4": 16.815148832431813
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -17868,8 +17841,7 @@
           "Percent_1": 0.0,
           "Percent_2": 65.89760847036992,
           "Percent_3": 23.714072704441698,
-          "Percent_4": 10.388318825188392,
-          "Area_general": "148.3 Mil Km²"
+          "Percent_4": 10.388318825188392
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -17879,8 +17851,7 @@
           "Percent_1": 0.0,
           "Percent_2": 73.68163590641088,
           "Percent_3": 18.4331374057404,
-          "Percent_4": 7.885226687848708,
-          "Area_general": "148.3 Mil Km²"
+          "Percent_4": 7.885226687848708
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -17890,8 +17861,7 @@
           "Percent_1": 0.0,
           "Percent_2": 81.40370013904288,
           "Percent_3": 14.096732778306976,
-          "Percent_4": 4.499567082650134,
-          "Area_general": "146.2 Mil Km²"
+          "Percent_4": 4.499567082650134
         },
         "deggeneral": {
           "Area_info_1": "2.1 Mil Km²",
@@ -19468,8 +19438,7 @@
           "Percent_1": 0.0,
           "Percent_2": 44.6788554790101,
           "Percent_3": 55.3211445209899,
-          "Percent_4": 0.0,
-          "Area_general": "45.7 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -19479,8 +19448,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "45.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -19490,8 +19458,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "45.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -19501,8 +19468,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "45.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -19512,8 +19478,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "45.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -23759,8 +23724,7 @@
           "Percent_1": 16.58321629289354,
           "Percent_2": 56.5773644576613,
           "Percent_3": 26.766890680499888,
-          "Percent_4": 0.07252856894526424,
-          "Area_general": "340.0 Mil Km²"
+          "Percent_4": 0.07252856894526424
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -23770,8 +23734,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "340.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -23781,8 +23744,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "340.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -23792,8 +23754,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "340.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -23803,8 +23764,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "340.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -29798,8 +29758,7 @@
           "Percent_1": 1.6959696891741618,
           "Percent_2": 65.46733218664133,
           "Percent_3": 32.65949870791445,
-          "Percent_4": 0.17719941627003555,
-          "Area_general": "327.8 Mil Km²"
+          "Percent_4": 0.17719941627003555
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -29809,8 +29768,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.04639902049673288,
-          "Percent_4": 99.95360097950325,
-          "Area_general": "327.8 Mil Km²"
+          "Percent_4": 99.95360097950325
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -29820,8 +29778,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.31442747997098414,
-          "Percent_4": 99.68557252002901,
-          "Area_general": "327.8 Mil Km²"
+          "Percent_4": 99.68557252002901
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -29831,8 +29788,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.8295886852965725,
-          "Percent_4": 99.17041131470343,
-          "Area_general": "327.8 Mil Km²"
+          "Percent_4": 99.17041131470343
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -29842,8 +29798,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 2.177677849906054,
-          "Percent_4": 97.82232215009395,
-          "Area_general": "324.8 Mil Km²"
+          "Percent_4": 97.82232215009395
         },
         "deggeneral": {
           "Area_info_1": "10 Km²",
@@ -35565,8 +35520,7 @@
           "Percent_1": 11.060091036689352,
           "Percent_2": 54.83049427074961,
           "Percent_3": 34.02822980185085,
-          "Percent_4": 0.08118489071018717,
-          "Area_general": "583.1 Mil Km²"
+          "Percent_4": 0.08118489071018717
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -35576,8 +35530,7 @@
           "Percent_1": 0.0,
           "Percent_2": 1.0440733851031732,
           "Percent_3": 9.439291705996295,
-          "Percent_4": 89.51663490890054,
-          "Area_general": "586.5 Mil Km²"
+          "Percent_4": 89.51663490890054
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -35587,8 +35540,7 @@
           "Percent_1": 0.0,
           "Percent_2": 1.797556110557396,
           "Percent_3": 9.140023770299575,
-          "Percent_4": 89.06242011914303,
-          "Area_general": "586.5 Mil Km²"
+          "Percent_4": 89.06242011914303
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -35598,8 +35550,7 @@
           "Percent_1": 0.0,
           "Percent_2": 2.896262091131045,
           "Percent_3": 9.668202564241593,
-          "Percent_4": 87.43553534462735,
-          "Area_general": "586.5 Mil Km²"
+          "Percent_4": 87.43553534462735
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -35609,8 +35560,7 @@
           "Percent_1": 0.0,
           "Percent_2": 5.003820000753674,
           "Percent_3": 14.770663208198714,
-          "Percent_4": 80.22551679104761,
-          "Area_general": "586.5 Mil Km²"
+          "Percent_4": 80.22551679104761
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -39463,8 +39413,7 @@
           "Percent_1": 25.14559230325962,
           "Percent_2": 49.37829169107755,
           "Percent_3": 25.410473963744924,
-          "Percent_4": 0.06564204191789623,
-          "Area_general": "355.6 Mil Km²"
+          "Percent_4": 0.06564204191789623
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -39474,8 +39423,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "355.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -39485,8 +39433,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "355.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -39496,8 +39443,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "355.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -39507,8 +39453,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 4.331873332711617,
-          "Percent_4": 95.66812666728838,
-          "Area_general": "356.1 Mil Km²"
+          "Percent_4": 95.66812666728838
         },
         "deggeneral": {
           "Area_info_1": "1.9 Mil Km²",
@@ -43692,8 +43637,7 @@
           "Percent_1": 45.11739321834117,
           "Percent_2": 41.951623177439444,
           "Percent_3": 12.531098041292479,
-          "Percent_4": 0.3998855629269077,
-          "Area_general": "877.5 Mil Km²"
+          "Percent_4": 0.3998855629269077
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -43703,8 +43647,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "902.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -43714,8 +43657,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "902.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -43725,8 +43667,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "902.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -43736,8 +43677,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "900.5 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "328 Km²",
@@ -49605,8 +49545,7 @@
           "Percent_1": 18.10833927336608,
           "Percent_2": 57.107320068746006,
           "Percent_3": 24.362741295452526,
-          "Percent_4": 0.4215993624353837,
-          "Area_general": "1243.4 Mil Km²"
+          "Percent_4": 0.4215993624353837
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -49616,8 +49555,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1243.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -49627,8 +49565,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1243.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -49638,8 +49575,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1243.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -49649,8 +49585,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "1243.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "4 Km²",
@@ -51565,8 +51500,7 @@
           "Percent_1": 1.6199049444782114,
           "Percent_2": 28.32084149326822,
           "Percent_3": 64.98187213603444,
-          "Percent_4": 5.07738142621912,
-          "Area_general": "56.3 Mil Km²"
+          "Percent_4": 5.07738142621912
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -51576,8 +51510,7 @@
           "Percent_1": 0.0,
           "Percent_2": 60.6961389874725,
           "Percent_3": 26.625433442501752,
-          "Percent_4": 12.678427570025741,
-          "Area_general": "56.3 Mil Km²"
+          "Percent_4": 12.678427570025741
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -51587,8 +51520,7 @@
           "Percent_1": 0.0,
           "Percent_2": 72.49738281190675,
           "Percent_3": 18.199768155048694,
-          "Percent_4": 9.302849033044568,
-          "Area_general": "56.3 Mil Km²"
+          "Percent_4": 9.302849033044568
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -51598,8 +51530,7 @@
           "Percent_1": 0.0,
           "Percent_2": 82.05309696322985,
           "Percent_3": 10.521811264920053,
-          "Percent_4": 7.425091771850095,
-          "Area_general": "56.3 Mil Km²"
+          "Percent_4": 7.425091771850095
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -51609,8 +51540,7 @@
           "Percent_1": 0.0,
           "Percent_2": 85.49030827627992,
           "Percent_3": 8.58756851575279,
-          "Percent_4": 5.922123207967285,
-          "Area_general": "55.4 Mil Km²"
+          "Percent_4": 5.922123207967285
         },
         "deggeneral": {
           "Area_info_1": "280 Km²",
@@ -54002,8 +53932,7 @@
           "Percent_1": 0.5868542336160348,
           "Percent_2": 7.547187828654267,
           "Percent_3": 76.96987672575791,
-          "Percent_4": 14.896081211971781,
-          "Area_general": "97.9 Mil Km²"
+          "Percent_4": 14.896081211971781
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -54013,8 +53942,7 @@
           "Percent_1": 0.0,
           "Percent_2": 78.30992218912266,
           "Percent_3": 6.8900119549545185,
-          "Percent_4": 14.800065855922822,
-          "Area_general": "97.9 Mil Km²"
+          "Percent_4": 14.800065855922822
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -54024,8 +53952,7 @@
           "Percent_1": 0.0,
           "Percent_2": 80.72845900000414,
           "Percent_3": 6.161279475526605,
-          "Percent_4": 13.110261524469264,
-          "Area_general": "97.9 Mil Km²"
+          "Percent_4": 13.110261524469264
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -54035,8 +53962,7 @@
           "Percent_1": 0.0,
           "Percent_2": 80.51191856318903,
           "Percent_3": 5.993040705973026,
-          "Percent_4": 13.495040730837943,
-          "Area_general": "97.9 Mil Km²"
+          "Percent_4": 13.495040730837943
         },
         "ia2020": {
           "Area_info_1": "283 Km²",
@@ -54046,8 +53972,7 @@
           "Percent_1": 0.29256558211502975,
           "Percent_2": 81.91836533020223,
           "Percent_3": 6.434123850597037,
-          "Percent_4": 11.354945237085708,
-          "Area_general": "96.6 Mil Km²"
+          "Percent_4": 11.354945237085708
         },
         "deggeneral": {
           "Area_info_1": "823 Km²",
@@ -56687,8 +56612,7 @@
           "Percent_1": 2.759745349649411,
           "Percent_2": 55.78304469077837,
           "Percent_3": 41.36099870447024,
-          "Percent_4": 0.09621125510198004,
-          "Area_general": "251.7 Mil Km²"
+          "Percent_4": 0.09621125510198004
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -56698,8 +56622,7 @@
           "Percent_1": 0.0,
           "Percent_2": 29.350391123328652,
           "Percent_3": 28.505987278887456,
-          "Percent_4": 42.143621597783884,
-          "Area_general": "251.7 Mil Km²"
+          "Percent_4": 42.143621597783884
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -56709,8 +56632,7 @@
           "Percent_1": 0.0,
           "Percent_2": 33.26669079287857,
           "Percent_3": 35.21703632268706,
-          "Percent_4": 31.516272884434365,
-          "Area_general": "251.7 Mil Km²"
+          "Percent_4": 31.516272884434365
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -56720,8 +56642,7 @@
           "Percent_1": 0.0,
           "Percent_2": 40.579153597558275,
           "Percent_3": 32.99071708699585,
-          "Percent_4": 26.43012931544588,
-          "Area_general": "251.7 Mil Km²"
+          "Percent_4": 26.43012931544588
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -56731,8 +56652,7 @@
           "Percent_1": 0.0,
           "Percent_2": 50.93007801402511,
           "Percent_3": 30.097417006446815,
-          "Percent_4": 18.97250497952806,
-          "Area_general": "251.2 Mil Km²"
+          "Percent_4": 18.97250497952806
         },
         "deggeneral": {
           "Area_info_1": "174 Km²",
@@ -59699,8 +59619,7 @@
           "Percent_1": 73.27783527746924,
           "Percent_2": 26.495733798647546,
           "Percent_3": 0.22643092388321268,
-          "Percent_4": 0.0,
-          "Area_general": "198.0 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -59710,8 +59629,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "198.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -59721,8 +59639,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "198.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -59732,8 +59649,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "198.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -59743,8 +59659,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "196.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -63266,8 +63181,7 @@
           "Percent_1": 12.171530023505662,
           "Percent_2": 52.10367062881149,
           "Percent_3": 34.91357003423793,
-          "Percent_4": 0.8112293134449118,
-          "Area_general": "42.2 Mil Km²"
+          "Percent_4": 0.8112293134449118
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -63277,8 +63191,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "42.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -63288,8 +63201,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "42.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -63299,8 +63211,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "42.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -63310,8 +63221,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 4.243336513906415,
-          "Percent_4": 95.75666348609359,
-          "Area_general": "42.0 Mil Km²"
+          "Percent_4": 95.75666348609359
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -64657,8 +64567,7 @@
           "Percent_1": 15.823499006137729,
           "Percent_2": 62.63396268889755,
           "Percent_3": 21.470100659317232,
-          "Percent_4": 0.07243764564749078,
-          "Area_general": "52.3 Mil Km²"
+          "Percent_4": 0.07243764564749078
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -64668,8 +64577,7 @@
           "Percent_1": 0.0,
           "Percent_2": 85.22384757523164,
           "Percent_3": 9.02291763322789,
-          "Percent_4": 5.753234791540461,
-          "Area_general": "52.3 Mil Km²"
+          "Percent_4": 5.753234791540461
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -64679,8 +64587,7 @@
           "Percent_1": 0.0,
           "Percent_2": 86.37005117702469,
           "Percent_3": 7.195703361278431,
-          "Percent_4": 6.434245461696868,
-          "Area_general": "52.3 Mil Km²"
+          "Percent_4": 6.434245461696868
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -64690,8 +64597,7 @@
           "Percent_1": 0.0,
           "Percent_2": 85.19576015299968,
           "Percent_3": 8.689379277253753,
-          "Percent_4": 6.114860569746545,
-          "Area_general": "52.3 Mil Km²"
+          "Percent_4": 6.114860569746545
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -64701,8 +64607,7 @@
           "Percent_1": 0.0,
           "Percent_2": 88.10094213523016,
           "Percent_3": 7.900554860613427,
-          "Percent_4": 3.998503004156423,
-          "Area_general": "50.6 Mil Km²"
+          "Percent_4": 3.998503004156423
         },
         "deggeneral": {
           "Area_info_1": "1.3 Mil Km²",
@@ -68442,8 +68347,7 @@
           "Percent_1": 36.6820600250191,
           "Percent_2": 45.0419626579135,
           "Percent_3": 13.629788293683706,
-          "Percent_4": 4.646189023383687,
-          "Area_general": "232.7 Mil Km²"
+          "Percent_4": 4.646189023383687
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -68453,8 +68357,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "236.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -68464,8 +68367,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "236.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -68475,8 +68377,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "236.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -68486,8 +68387,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "236.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -72728,8 +72628,7 @@
           "Percent_1": 45.48414726086847,
           "Percent_2": 53.98329988263711,
           "Percent_3": 0.5325528564944129,
-          "Percent_4": 0.0,
-          "Area_general": "216.9 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -72739,8 +72638,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "221.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -72750,8 +72648,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "221.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -72761,8 +72658,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "221.2 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -72772,8 +72668,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "220.7 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "6 Km²",
@@ -78361,8 +78256,7 @@
           "Percent_1": 74.77998824328125,
           "Percent_2": 25.148981787373625,
           "Percent_3": 0.07102996934513706,
-          "Percent_4": 0.0,
-          "Area_general": "278.1 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -78372,8 +78266,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "279.1 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -78383,8 +78276,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "279.1 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -78394,8 +78286,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "279.1 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -78405,8 +78296,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "268.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "1 Km²",
@@ -81881,8 +81771,7 @@
           "Percent_1": 90.93794294936014,
           "Percent_2": 8.945205956711636,
           "Percent_3": 0.11685109392823181,
-          "Percent_4": 0.0,
-          "Area_general": "94.8 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -81892,8 +81781,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "94.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -81903,8 +81791,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "94.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -81914,8 +81801,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "94.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -81925,8 +81811,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "94.0 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
@@ -82758,8 +82643,7 @@
           "Percent_1": 6.610248618632135,
           "Percent_2": 65.70932812817344,
           "Percent_3": 27.68042325319443,
-          "Percent_4": 0.0,
-          "Area_general": "21.7 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -82769,8 +82653,7 @@
           "Percent_1": 0.0,
           "Percent_2": 24.859143599727187,
           "Percent_3": 19.21459050665314,
-          "Percent_4": 55.92626589361968,
-          "Area_general": "21.7 Mil Km²"
+          "Percent_4": 55.92626589361968
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -82780,8 +82663,7 @@
           "Percent_1": 0.0,
           "Percent_2": 28.926425615824208,
           "Percent_3": 21.441542348282614,
-          "Percent_4": 49.63203203589317,
-          "Area_general": "21.7 Mil Km²"
+          "Percent_4": 49.63203203589317
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -82791,8 +82673,7 @@
           "Percent_1": 0.0,
           "Percent_2": 28.14953478975847,
           "Percent_3": 18.878032661689552,
-          "Percent_4": 52.972432548551986,
-          "Area_general": "21.7 Mil Km²"
+          "Percent_4": 52.972432548551986
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -82802,8 +82683,7 @@
           "Percent_1": 0.0,
           "Percent_2": 30.875646222429477,
           "Percent_3": 19.355582170194186,
-          "Percent_4": 49.76877160737634,
-          "Area_general": "21.8 Mil Km²"
+          "Percent_4": 49.76877160737634
         },
         "deggeneral": {
           "Area_info_1": "72 Km²",
@@ -86933,8 +86813,7 @@
           "Percent_1": 67.25648549259382,
           "Percent_2": 29.909183221351636,
           "Percent_3": 2.790422057372365,
-          "Percent_4": 0.04390922868216696,
-          "Area_general": "246.2 Mil Km²"
+          "Percent_4": 0.04390922868216696
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -86944,8 +86823,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "247.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -86955,8 +86833,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "247.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -86966,8 +86843,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "247.6 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -86977,8 +86853,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "247.5 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "3 Km²",
@@ -90084,8 +89959,7 @@
           "Percent_1": 9.039185402281188,
           "Percent_2": 62.76713188890975,
           "Percent_3": 27.608097970627394,
-          "Percent_4": 0.5855847381816617,
-          "Area_general": "277.4 Mil Km²"
+          "Percent_4": 0.5855847381816617
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -90095,8 +89969,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "277.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -90106,8 +89979,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "277.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -90117,8 +89989,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "277.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -90128,8 +89999,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "277.4 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "3 Km²",
@@ -90456,8 +90326,7 @@
           "Percent_1": 0.0,
           "Percent_2": 82.12165778534585,
           "Percent_3": 17.878342214654158,
-          "Percent_4": 0.0,
-          "Area_general": "5.8 Mil Km²"
+          "Percent_4": 0.0
         },
         "ia1990": {
           "Area_info_1": "0 Km²",
@@ -90467,8 +90336,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "5.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2000": {
           "Area_info_1": "0 Km²",
@@ -90478,8 +90346,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "5.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2010": {
           "Area_info_1": "0 Km²",
@@ -90489,8 +90356,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "5.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "ia2020": {
           "Area_info_1": "0 Km²",
@@ -90500,8 +90366,7 @@
           "Percent_1": 0.0,
           "Percent_2": 0.0,
           "Percent_3": 0.0,
-          "Percent_4": 100.0,
-          "Area_general": "5.8 Mil Km²"
+          "Percent_4": 100.0
         },
         "deggeneral": {
           "Area_info_1": "0 Km²",
