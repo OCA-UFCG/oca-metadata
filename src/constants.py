@@ -1,0 +1,10 @@
+# Brazil States IDS - Dictionary of Brazilian state identification numbers
+UF_IDS = {
+    "Acre": 12, "Alagoas": 27, "Amazonas": 13, "Amapá": 16, "Bahia": 29, "Ceará": 23,
+    "Espírito Santo": 32, "Goiás": 52, "Maranhão": 21, "Minas Gerais": 31,
+    "Mato Grosso do Sul": 50, "Mato Grosso": 51, "Pará": 15, "Paraíba": 25,
+    "Pernambuco": 26, "Piauí": 22, "Paraná": 41, "Rio de Janeiro": 33,
+    "Rio Grande do Norte": 24, "Rondônia": 11, "Roraima": 14, "Rio Grande do Sul": 43,
+    "Santa Catarina": 42, "Sergipe": 28, "São Paulo": 35, "Tocantins": 17,
+    "Distrito Federal": 53
+}

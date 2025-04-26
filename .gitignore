@@ -1,2 +1,4 @@
 venv/
 geojson/
+__pycache__/
+uploads/*
